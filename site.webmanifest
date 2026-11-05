@@ -1,0 +1,10 @@
+{
+  "name": "Tangent — Calculus & Vectors",
+  "short_name": "Tangent",
+  "description": "Free MCV4U video lessons, practice, unit tests and a practice exam for Ontario students.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f6f3",
+  "theme_color": "#2f45d8",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

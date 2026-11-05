@@ -1,0 +1,690 @@
+WEBVTT
+
+00:00:00.190 --> 00:00:04.580
+Bismillah, alhamdulillah, salatu wassalamu ala
+rasulullah. Hello calculus students, today
+
+00:00:04.430 --> 00:00:10.070
+we'll be taking derivatives using our first
+principles formula. Let's dive right in.
+
+00:00:10.060 --> 00:00:14.620
+As we all should know, this is our first
+principles equation. Either way, I don't
+
+00:00:14.470 --> 00:00:17.300
+want to bore you with all the details today. I
+just want to highlight two important
+
+00:00:17.150 --> 00:00:22.420
+things. The first is what is our goal, right?
+You could tell me, okay, the goal is
+
+00:00:22.270 --> 00:00:27.080
+super easy, Ziyad. The goal is just
+to plug in h with 0.
+
+00:00:27.550 --> 00:00:32.800
+While that's true, we want to do so in a way
+so that we're not left with any
+
+00:00:32.650 --> 00:00:37.160
+denominators that equal 0. Because if we are
+left with a denominator that equals 0,
+
+00:00:37.190 --> 00:00:40.980
+it's the same as dividing by 0, it's the same
+as an undefined number, and that's
+
+00:00:40.830 --> 00:00:45.800
+game over. So we want to do algebraic
+manipulation to make sure that we're not
+
+00:00:45.650 --> 00:00:50.360
+dividing by any 0s. The second thing I want to
+mention is this term right here.
+
+00:00:50.430 --> 00:00:53.400
+Because when I was first learning calculus, and
+a lot of the students that come to
+
+00:00:53.250 --> 00:00:58.820
+me with questions are usually super upset and
+confused with this term right here. So
+
+00:00:58.670 --> 00:01:04.060
+I'm going to quickly show a very easy
+way to untangle this equation
+
+00:01:03.910 --> 00:01:08.100
+to make it very simple and to deal with our f
+of x plus h term. Let's go to the
+
+00:01:07.950 --> 00:01:13.100
+first example. Here we have f of x
+equals 3x squared minus
+
+00:01:12.950 --> 00:01:18.140
+5x. But before we go straight to our
+equation, I want to just take our f
+
+00:01:17.990 --> 00:01:23.600
+of x plus h. I want to see what that equals
+first, because doing this, we can just
+
+00:01:23.450 --> 00:01:28.420
+plug both of these into our equation, divide
+them by h, and just have one or two
+
+00:01:28.270 --> 00:01:33.780
+more steps until we get our full answer,
+okay? So we do this very simply
+
+00:01:33.630 --> 00:01:38.870
+by every single time we have an x-term. We're
+going to take this x-term out,
+
+00:01:38.760 --> 00:01:44.280
+and we're going to instead input our x plus
+h. What that means is anything
+
+00:01:44.130 --> 00:01:49.040
+that was applied to the x whether it's a factor
+whether it's a squared whether it's
+
+00:01:48.890 --> 00:01:54.100
+a negative will also be applied to our x
+plus h a good way to visualize
+
+00:01:53.950 --> 00:01:58.480
+this is by first writing once
+again your 3x squared
+
+00:01:58.330 --> 00:02:03.590
+minus 5x and then what you
+can do is you can
+
+00:02:03.440 --> 00:02:08.980
+erase your x's and instead put bracket x
+
+00:02:08.830 --> 00:02:12.720
+plus h closed bracket in both
+of those spots and
+
+00:02:13.570 --> 00:02:19.000
+the reason we have our bracket is because
+this would apply our factor
+
+00:02:18.850 --> 00:02:21.840
+or our power to both of our terms. If we didn't
+have a bracket, it would just be
+
+00:02:21.690 --> 00:02:26.720
+applied to one of them, okay? The next step we
+would do here is we would expand. So
+
+00:02:26.570 --> 00:02:30.960
+here I would go 3 times x squared plus
+
+00:02:30.810 --> 00:02:36.230
+2xh plus h squared minus
+
+00:02:36.080 --> 00:02:39.190
+5x minus 5h.
+
+00:02:40.130 --> 00:02:45.620
+And then we can also expand that 3 into our
+bracket. So we could go 3x squared
+
+00:02:45.470 --> 00:02:50.460
+plus 6xh plus 3h squared minus
+
+00:02:50.310 --> 00:02:55.730
+5x minus 5h and here there are no more
+
+00:02:55.580 --> 00:02:59.710
+like terms every single one of these terms is a
+different combination of variables
+
+00:02:59.560 --> 00:03:04.790
+so we are done with this step and we
+can plug in our first
+
+00:03:04.640 --> 00:03:09.450
+principles derivative formula we're going to go
+f prime of x here equals the limit
+
+00:03:09.460 --> 00:03:15.060
+as h approaches 0 and then we can
+plug in our f of x plus
+
+00:03:14.910 --> 00:03:20.560
+h just like we have it in this formula so we can
+go here in our numerator 3x squared
+
+00:03:20.410 --> 00:03:25.340
+plus 6xh plus 3h squared minus
+
+00:03:25.190 --> 00:03:30.360
+5x minus 5h and then we can expand
+this guy a little bit more
+
+00:03:30.210 --> 00:03:35.440
+and then just like you have in our equation
+we have a negative f of x okay
+
+00:03:35.290 --> 00:03:40.180
+negative f of x just means we're gonna apply a
+negative to both of these terms a
+
+00:03:40.030 --> 00:03:44.860
+negative multiplied by 3x squared will
+give us negative 3x squared and
+
+00:03:45.670 --> 00:03:49.840
+a negative multiplied by our negative 5x will
+be positive because two negatives
+
+00:03:49.690 --> 00:03:53.200
+equal a positive so it'll be
+plus 5x here and
+
+00:03:55.230 --> 00:04:00.820
+this is all over h okay now we have some
+
+00:04:00.670 --> 00:04:04.960
+like terms we have our a positive 3x squared and
+a negative 3x squared so those can
+
+00:04:04.810 --> 00:04:09.700
+cancel out and we also have a negative 5x and a
+positive 5x so those can also cancel
+
+00:04:09.550 --> 00:04:14.740
+out and we're gonna simplify here remove those
+crossed out terms we're gonna have
+
+00:04:14.590 --> 00:04:19.680
+6xh plus 3h squared minus 5h
+
+00:04:19.530 --> 00:04:22.740
+all over h but
+
+00:04:23.870 --> 00:04:29.240
+see still we can't input h of 0 here because if
+we do we're gonna be left with a
+
+00:04:29.090 --> 00:04:34.380
+zero in the denominator that zero will make our
+whole thing undefined but luckily we
+
+00:04:34.230 --> 00:04:39.800
+have an h in every term here so we can divide by
+an h in every single one of these
+
+00:04:39.650 --> 00:04:44.460
+terms so we can divide by h here we can divide
+one h here we can divide one h here
+
+00:04:44.310 --> 00:04:49.480
+becomes from h squared to just one and we can
+divide one of the h's right here this
+
+00:04:49.330 --> 00:04:54.740
+will give us the limit as h
+approaches zero bracket
+
+00:04:54.590 --> 00:04:59.820
+6x plus 3h minus
+5 close bracket
+
+00:04:59.760 --> 00:05:04.470
+okay one last note before we end our
+
+00:05:04.320 --> 00:05:09.670
+answer here is you guys might be asking me
+okay why are there brackets well the
+
+00:05:09.520 --> 00:05:13.550
+reason we had brackets here and we didn't have
+any brackets up here it's because
+
+00:05:13.400 --> 00:05:17.630
+since this is only one fraction it can be
+regarded as one term so it looks like
+
+00:05:17.480 --> 00:05:22.430
+we're applying our limit as h goes to zero to just one
+term but once we have three terms
+
+00:05:22.280 --> 00:05:27.270
+it looks like if we didn't have these brackets
+that the limit is only being applied
+
+00:05:27.120 --> 00:05:32.510
+to our first number. It's the same logic
+as if, for example, we see
+
+00:05:32.360 --> 00:05:33.430
+this term right here.
+
+00:05:34.720 --> 00:05:40.310
+If this term had instead just been negative 5x
+plus h, you wouldn't think that
+
+00:05:40.160 --> 00:05:43.310
+negative 5 is being multiplied into both them.
+You just think negative 5 is being
+
+00:05:43.160 --> 00:05:48.070
+multiplied into that first term. So that's why
+we have those brackets. Anyways, now
+
+00:05:47.920 --> 00:05:52.830
+since there are no h in the denominator, we can
+send our h to 0. If we send our h to
+
+00:05:52.680 --> 00:05:57.530
+0, this will becomes 3 times 0, so this will
+be gone, and we'll be left with
+
+00:05:57.380 --> 00:06:02.810
+6x minus 5. And that is our
+answer for the first one.
+
+00:06:03.090 --> 00:06:08.560
+Just like our first example, I want to first
+start by finding our x plus h, because
+
+00:06:08.410 --> 00:06:13.320
+once we do that, we can plug both of these into
+our first principles equation. So
+
+00:06:13.300 --> 00:06:18.250
+just like our first example, again, we're
+going to put in that 2x minus 1
+
+00:06:18.100 --> 00:06:23.630
+and remove that x and instead
+input our x plus h. Okay,
+
+00:06:23.740 --> 00:06:28.350
+here we can expand once so we can
+go to square root of
+
+00:06:28.200 --> 00:06:33.430
+2x plus 2h minus 1.
+
+00:06:33.300 --> 00:06:38.210
+And now we have both of our terms fully expanded
+and we can plug them right into our
+
+00:06:38.060 --> 00:06:43.460
+first principles equation. So here we're going
+to have f prime of x equals the
+
+00:06:43.310 --> 00:06:48.840
+limit as h approaches 0 of
+our f of x plus h,
+
+00:06:48.870 --> 00:06:53.760
+which is square root of 2x
+plus 2h minus 1,
+
+00:06:53.790 --> 00:06:59.340
+subtracted by the square root of 2x minus
+1, and this is all divided by
+
+00:06:59.190 --> 00:07:04.370
+h. Okay? Here, the next logical step would
+be to collect our like terms,
+
+00:07:04.260 --> 00:07:07.650
+but due to the fact that our
+
+00:07:08.010 --> 00:07:13.340
+quote-unquote like terms have
+brackets over them,
+
+00:07:13.230 --> 00:07:18.140
+we can't simplify right now
+because a rule of
+
+00:07:17.990 --> 00:07:23.480
+square root is that if I have the
+square root of 2x plus
+
+00:07:23.330 --> 00:07:28.520
+2h minus 1, This does not equal
+square root of 2x
+
+00:07:28.370 --> 00:07:33.840
+plus the square root of 2h minus the square
+root of 1. Because these two
+
+00:07:33.690 --> 00:07:38.600
+are not the same, we can't split this up and
+collect our like terms. And instead, we
+
+00:07:38.450 --> 00:07:44.080
+have to pull a tool from our mathematical
+toolbox, okay? This tool is
+
+00:07:43.930 --> 00:07:49.160
+almost always used when you're dealing with
+square roots and fractions. And it's
+
+00:07:49.010 --> 00:07:54.300
+called multiplying by a conjugate. A simplified
+explanation just for our application
+
+00:07:54.150 --> 00:07:58.650
+here a conjugate is when you
+multiply by a fraction
+
+00:07:58.500 --> 00:08:03.960
+and this fraction is gonna have the same
+numerator and denominator so it equals
+
+00:08:03.810 --> 00:08:09.170
+1 just like how we know that 4 over 4
+equals 1, 5 over 5 equals 1 and just
+
+00:08:09.020 --> 00:08:14.530
+any x over x is gonna equal 1 okay
+so using that principle
+
+00:08:14.380 --> 00:08:18.810
+we're gonna multiply by a factor
+that helps break up
+
+00:08:19.190 --> 00:08:24.500
+our numerator so we can simplify and then be
+
+00:08:24.570 --> 00:08:30.130
+able to get that final answer and for
+conjugates how it always works
+
+00:08:29.980 --> 00:08:35.150
+is that you want to keep the same two terms but
+change the sign in the middle so
+
+00:08:35.000 --> 00:08:40.410
+here we're gonna keep our square root of 2x
+plus 2h minus 1 and we're gonna
+
+00:08:40.260 --> 00:08:45.850
+keep our square root of 2x minus 1 as well
+but we're gonna have a plus
+
+00:08:45.700 --> 00:08:50.630
+here instead of this minus and then obviously
+so we can have this be the same as
+
+00:08:50.480 --> 00:08:54.210
+we're multiplying by one we got to keep those
+exact same whatever's in the numerator
+
+00:08:54.060 --> 00:08:58.910
+we got to put in the denominator so you're
+gonna have again 2x plus 2h minus 1
+
+00:08:58.760 --> 00:09:04.010
+plus square root of 2x minus 1 okay now
+
+00:09:04.690 --> 00:09:10.310
+because we multiply by a conjugate this will
+break up super easily and we'll
+
+00:09:10.160 --> 00:09:15.160
+just be left with the first term squared
+minus the second term squared okay
+
+00:09:15.010 --> 00:09:20.630
+it will become the square root of 2x
+
+00:09:20.480 --> 00:09:25.990
+plus 2h minus 1 squared minus the square
+
+00:09:25.840 --> 00:09:29.810
+root of 2x minus 1 all squared and
+
+00:09:31.905 --> 00:09:35.535
+then in the denominator we
+are going to have
+
+00:09:37.275 --> 00:09:42.885
+our h multiplied by what was in the denominator
+on that side, which is the square
+
+00:09:42.735 --> 00:09:48.285
+root of 2x plus 2h minus 1
+plus the square root
+
+00:09:48.135 --> 00:09:53.285
+of 2x minus 1, okay? But this is always the
+formula that's going to be. You're
+
+00:09:53.135 --> 00:09:56.265
+always going to have that first number squared,
+that second number squared, both
+
+00:09:56.115 --> 00:09:59.825
+those terms, and you're going to have that
+middle one eliminated because we had a
+
+00:09:59.675 --> 00:10:03.865
+negative and a positive on the other side
+you're multiplying anyways though this
+
+00:10:03.715 --> 00:10:09.295
+will become the limit as h approaches 0 of if we
+have a square root that square is
+
+00:10:09.145 --> 00:10:13.915
+the same as just that square root and that 2
+will cancel out and we'll be left with
+
+00:10:13.765 --> 00:10:18.715
+2x plus 2h minus 1 then we're
+gonna have minus
+
+00:10:18.565 --> 00:10:21.455
+2x minus 1
+
+00:10:22.275 --> 00:10:27.165
+all over h of the square root of 2x plus
+
+00:10:27.015 --> 00:10:32.485
+2h minus 1 plus the square
+root of 2x minus 1,
+
+00:10:32.515 --> 00:10:33.225
+okay?
+
+00:10:34.015 --> 00:10:37.765
+And then here, if we have a 2x, and when we
+apply this negative, it will become
+
+00:10:37.615 --> 00:10:40.965
+negative 2x, so this will cancel out, and that
+will cancel out. And then here we
+
+00:10:40.815 --> 00:10:44.225
+have a negative 1, and then when we apply that
+negative 1, it's going to be negative
+
+00:10:44.075 --> 00:10:48.165
+times negative, which will be positive 1, so
+these two will also cancel out, and it
+
+00:10:48.015 --> 00:10:51.625
+will be left with the limit as
+h approaches 0
+
+00:10:52.595 --> 00:10:58.245
+of 2h all over h times this huge
+
+00:10:58.095 --> 00:10:58.965
+middle guy here
+
+00:11:04.280 --> 00:11:09.540
+okay and now we have an h in the
+denominator that can be
+
+00:11:09.390 --> 00:11:14.360
+factored out and we have one in the numerator so
+we can divide these two and we will
+
+00:11:14.210 --> 00:11:19.380
+get I'm gonna move this guy up here we're
+gonna get equals the limit
+
+00:11:19.650 --> 00:11:25.160
+as h approaches 0 of 2 over
+
+00:11:25.010 --> 00:11:30.040
+the square root of 2x plus 2h minus 1
+
+00:11:29.890 --> 00:11:34.780
+plus the square root of 2x minus 1, okay?
+
+00:11:36.020 --> 00:11:41.410
+Now we can finally apply our limit. And the
+reason we could now, even though there's
+
+00:11:41.260 --> 00:11:46.510
+an h in the denominator and we couldn't earlier,
+it's because here if we plug in the
+
+00:11:46.360 --> 00:11:51.150
+h equals 0, it's going to be 0 multiplied by
+this whole guy, which means it's going
+
+00:11:51.000 --> 00:11:55.670
+to be 0 overall. And that 0 is in the
+denominator. So again, we lose. It's undefined
+
+00:11:55.520 --> 00:12:00.710
+that's a no-go but because our h is in the
+middle of terms that are being added and
+
+00:12:00.560 --> 00:12:06.160
+under a square root this h if it goes to
+zero our denominator will not go
+
+00:12:06.010 --> 00:12:11.460
+to zero as you'll see here in just a sec so
+because it's not going to zero we
+
+00:12:11.310 --> 00:12:16.330
+can plug it in here and we'll be able to
+solve and find our derivative
+
+00:12:16.180 --> 00:12:21.150
+so here what's gonna happen when we plug in
+zero for the h, we'll have 2 over
+
+00:12:21.000 --> 00:12:25.810
+square root of 2x plus 2 times 0
+
+00:12:25.660 --> 00:12:30.410
+minus 1 plus the square root
+of 2x minus 1.
+
+00:12:31.060 --> 00:12:35.770
+This will become 0, and we're going to have the
+square root of 2x minus 1 plus the
+
+00:12:35.620 --> 00:12:41.150
+square root of 2x minus 1. That equals 2 over,
+if you have two of the same thing,
+
+00:12:41.100 --> 00:12:46.530
+it's going to become 2 times [the square root of]
+2x minus 1, right? Because we have 2x minus 1 plus
+
+00:12:46.380 --> 00:12:51.910
+2x minus 1 equals 2 times 2x minus
+1. These two 2s will
+
+00:12:51.760 --> 00:12:56.730
+reduce the fraction and we'll be left
+with 1 over the square root of
+
+00:12:56.580 --> 00:12:58.390
+2x minus 1.
+
+00:12:59.100 --> 00:13:04.750
+And that is our answer. Quick recap because
+this was a lot of steps. We started
+
+00:13:04.600 --> 00:13:09.790
+off by first getting our f of x plus h so we
+can plug it into our OG formula.
+
+00:13:10.580 --> 00:13:16.170
+Once we got it, we plugged in both those
+numbers into our formula and we were not
+
+00:13:16.020 --> 00:13:20.710
+able to simplify so we had to multiply by a
+conjugate when we multiplied by this
+
+00:13:20.560 --> 00:13:24.850
+conjugate it helped us square our first and
+second term but it also left us with
+
+00:13:24.700 --> 00:13:28.490
+some leftovers in the denominator because we
+had to multiply h by the denominator
+
+00:13:28.340 --> 00:13:29.350
+that was in our conjugate
+
+00:13:30.060 --> 00:13:35.370
+from that we could subtract our like
+terms and we were left with
+
+00:13:35.220 --> 00:13:40.700
+2h over h times what was in the denominator from
+our conjugate because there was an
+
+00:13:40.550 --> 00:13:45.180
+h in the denominator and the numerator we were
+able to cancel them out and be left
+
+00:13:45.030 --> 00:13:49.540
+with that if we had an extra h in the
+denominator, then we wouldn't have really done
+
+00:13:49.390 --> 00:13:53.900
+anything because that h would have taken us to
+zero and we would have had undefined.
+
+00:13:53.910 --> 00:13:57.420
+So we would have not been able to find the
+derivative. But luckily we did.
+
+00:13:58.210 --> 00:14:03.680
+After there was no more h being multiplied
+into our conjugate, we were
+
+00:14:03.530 --> 00:14:05.020
+able to apply that zero.
+
+00:14:05.730 --> 00:14:10.820
+This term went to zero and we had 2 over [the square
+root of] 2x minus 1 plus square root of 2x
+
+00:14:10.670 --> 00:14:15.380
+minus 1. Again, that became 2 square root
+of 2x minus 1, a 2 in the
+
+00:14:15.230 --> 00:14:19.180
+numerator, a 2 in the [denominator] reduced and we are
+left with this as our final answer
+
+00:14:21.160 --> 00:14:23.010
+thank you very much and I'll see
+you in the next one
