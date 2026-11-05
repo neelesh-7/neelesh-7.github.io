@@ -1,7 +1,7 @@
 {
-  "name": "Tangent — Calculus & Vectors",
+  "name": "Tangent — Grade 12 Calculus",
   "short_name": "Tangent",
-  "description": "Free MCV4U video lessons, practice, unit tests and a practice exam for Ontario students.",
+  "description": "Free Grade 12 Calculus (MCV4U) video lessons, practice, a unit test and a practice exam.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#f6f6f3",
