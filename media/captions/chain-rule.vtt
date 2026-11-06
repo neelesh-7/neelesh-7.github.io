@@ -1,0 +1,461 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.410
+Bismillah, alhamdulillah, salatu wa salam wa
+ala rasulullah, hello calculus
+
+00:00:03.260 --> 00:00:08.810
+students, today we're going to be taking
+derivatives using the chain rule, as
+
+00:00:08.660 --> 00:00:13.950
+we know this is the formal definition of the
+chain rule, but I'll also show you the
+
+00:00:13.800 --> 00:00:17.630
+power case which will be really helpful for
+you guys, especially those that are
+
+00:00:17.480 --> 00:00:21.430
+still in unit 1 of calculus and vectors, this
+is really the only case you'll be
+
+00:00:21.280 --> 00:00:25.670
+using the chain rule, let's get right into it. we
+have some examples here that we're
+
+00:00:25.520 --> 00:00:29.200
+going to go through. But first, I kind of want
+to explain what both of those are
+
+00:00:29.050 --> 00:00:32.970
+quickly. What this is saying right here, it
+looks confusing, but all it's saying is
+
+00:00:32.820 --> 00:00:36.930
+that what we want to do is when we have a
+composite function, a composite function
+
+00:00:36.780 --> 00:00:42.370
+is when we have a function inside
+another function, how
+
+00:00:42.220 --> 00:00:46.350
+we get its derivative is first by taking the
+derivative of the outside, the outside
+
+00:00:46.200 --> 00:00:50.510
+shell, and then taking the derivative of
+whatever is inside and multiplying them
+
+00:00:50.360 --> 00:00:54.410
+together okay Just like what we have here,
+we're taking the derivative of the
+
+00:00:54.260 --> 00:00:58.310
+outside with whatever's inside multiplied
+by the derivative of the inside
+
+00:00:59.020 --> 00:01:04.550
+And the reason I mentioned the power rule
+case in the introduction, and why I
+
+00:01:04.400 --> 00:01:09.650
+think it is super useful for you guys right now
+that's because since we have not yet
+
+00:01:09.500 --> 00:01:14.730
+dived into any further calculus topics every
+single chain rule question you guys are
+
+00:01:14.580 --> 00:01:20.210
+going to be given is going to fall under the
+power case anyways. So this will
+
+00:01:20.060 --> 00:01:25.190
+always end up being the same question as this
+until we start adding on more calculus
+
+00:01:25.040 --> 00:01:26.290
+topics.
+
+00:01:27.240 --> 00:01:30.670
+Especially if you're in calculus and vectors
+like I was when I was in high school,
+
+00:01:30.980 --> 00:01:36.290
+you're not going to get any questions on the
+exam or in your units or in your
+
+00:01:36.140 --> 00:01:39.070
+homework other than the power case
+for the chain rule itself.
+
+00:01:39.980 --> 00:01:44.230
+Either way, let's get started with the first
+example. As we know, for the chain
+
+00:01:44.080 --> 00:01:49.510
+rule, we have an f of x and a g
+of x function. And we
+
+00:01:49.360 --> 00:01:54.610
+should know how to extract both of them from
+this equation. But here, we can tell
+
+00:01:54.460 --> 00:01:59.910
+that our f of x function will be x to
+the power of 5. And our
+
+00:01:59.760 --> 00:02:05.130
+g of x function equals 2x
+squared minus 3x.
+
+00:02:07.520 --> 00:02:11.950
+These two here, just to show you how we got them
+from this we know that our g of x
+
+00:02:11.800 --> 00:02:17.430
+is the inside function because it's
+encapsulated by our power of five and then
+
+00:02:17.280 --> 00:02:21.970
+that x to the power of five is that shell the
+outside function like we have here in
+
+00:02:21.820 --> 00:02:27.130
+our chain rule formula okay so here what
+we want to do is take the
+
+00:02:26.980 --> 00:02:32.330
+derivative, the f of x derivative,
+which will give us using power
+
+00:02:32.180 --> 00:02:37.390
+rule 5x to the 4, okay? And then
+what we can now do is
+
+00:02:37.240 --> 00:02:42.750
+plug in our g of x in place of where this x
+is. Just like how when you're
+
+00:02:42.600 --> 00:02:46.270
+doing first principles, and I showed you the
+first principles example, it's the
+
+00:02:46.120 --> 00:02:50.410
+exact same logic as when we were getting that f
+of x plus h. What we do is we take
+
+00:02:50.260 --> 00:02:55.750
+out this x, and we input the g of x. So
+when we do that f prime of g of
+
+00:02:55.600 --> 00:02:56.030
+x,
+
+00:02:56.840 --> 00:03:02.470
+we're taking here, we would have 5x to
+the 4 but we're taking this
+
+00:03:02.320 --> 00:03:07.470
+x out and we're instead putting our g of x
+function our g of x as written up here
+
+00:03:07.320 --> 00:03:12.810
+is 2x cubed minus 3x and this will
+all be to the power of 4.
+
+00:03:13.780 --> 00:03:18.410
+Okay the second thing we're going to need is
+our g prime of x because we have to
+
+00:03:18.260 --> 00:03:22.530
+multiply these two together to get our full
+derivation of the chain rule. It's very
+
+00:03:22.380 --> 00:03:27.070
+simple this one is just power rule again we have
+2x squared oh sorry it's not cubed
+
+00:03:26.920 --> 00:03:32.510
+here it is a squared 2x squared will be 4x and
+negative 3x will just be negative 3
+
+00:03:32.360 --> 00:03:37.910
+so now we have f prime of g of x and g
+prime of x so we can just
+
+00:03:37.760 --> 00:03:43.170
+multiply both of these and we will get
+our final answer for our first
+
+00:03:43.020 --> 00:03:48.550
+derivation so just y prime because that's
+our full function is equal to
+
+00:03:48.400 --> 00:03:52.630
+5 of 2x squared minus 3x to the power of 4
+
+00:03:54.580 --> 00:03:59.790
+times 4x minus 3. On to our next
+question. Here we have
+
+00:03:59.640 --> 00:04:05.220
+h of x equals 1 over 5x minus 2 [to the
+
+00:04:05.070 --> 00:04:05.710
+4].
+
+00:04:07.420 --> 00:04:12.110
+Actually, very quickly before we move on to
+this, this already follows the power
+
+00:04:11.960 --> 00:04:16.830
+case to a t, right? Because if we look at
+it here, what we have is we had
+
+00:04:16.680 --> 00:04:22.110
+this whole function and we took the power
+rule of it, we brought that
+
+00:04:21.960 --> 00:04:25.950
+five in front and we subtract 1 [to get] the 4,
+which matches exactly what the power
+
+00:04:25.800 --> 00:04:30.670
+case would be, because our n here is five, and n
+minus one is four, like our power.
+
+00:04:30.840 --> 00:04:34.430
+And then we took the prime, which is just what
+was inside, which is this. So our
+
+00:04:34.280 --> 00:04:38.370
+power case already matches exactly like I was
+mentioning at the beginning, we're
+
+00:04:38.220 --> 00:04:42.190
+going to do one more regular chain rule case,
+and then we're just going to be doing
+
+00:04:42.040 --> 00:04:45.670
+the power case. And I'll show you how it's
+much, much simpler. Here, what we're
+
+00:04:45.520 --> 00:04:49.410
+going to do is first, we want to rewrite because
+we don't like our equation being in
+
+00:04:49.260 --> 00:04:52.810
+the denominator so instead we're going to have it
+as 5x minus 2 [to the negative 4],
+
+00:04:52.660 --> 00:04:55.530
+and whenever we bring something up [to the]
+numerator, we're going to have to do a
+
+00:04:55.380 --> 00:05:00.770
+negative there switch the sign on
+the power now from here
+
+00:05:00.620 --> 00:05:06.190
+just like our first let's identify our f of x
+and our g of x so our f of x here
+
+00:05:06.040 --> 00:05:11.610
+will equal x to the negative 4 and
+our g of x will equal 5x
+
+00:05:11.460 --> 00:05:16.970
+minus 2. Again, g of x is our inside
+function, and our f of x is that big
+
+00:05:16.820 --> 00:05:21.810
+enclosed kind of like shell, like an onion shell
+function, which is our negative 4.
+
+00:05:21.820 --> 00:05:27.310
+So f prime of x will equal negative
+4x to the negative 5
+
+00:05:27.160 --> 00:05:31.500
+because we're going to bring that forward and
+subtract 1. So that means [f] prime of
+
+00:05:31.350 --> 00:05:36.030
+g of x. Remember, what we're doing is we're
+taking that x out and plugging in our g
+
+00:05:35.880 --> 00:05:40.590
+of x. It's going to be
+negative 4, 5x minus 2
+
+00:05:40.440 --> 00:05:45.970
+to the negative 5, okay? We can
+also do our g prime of
+
+00:05:45.820 --> 00:05:50.800
+x here, because we've got to multiply that
+for the chain rule. g prime of
+
+00:05:50.650 --> 00:05:56.210
+x equals 5 using power rule, and then
+the negative 2 will go to 0,
+
+00:05:56.080 --> 00:06:01.320
+so it just equals 5. Multiplying
+these two together, we get h
+
+00:06:01.170 --> 00:06:06.430
+prime of x equals f prime of g of
+
+00:06:06.280 --> 00:06:10.930
+x times g prime of x, which will be
+
+00:06:10.780 --> 00:06:15.940
+negative 4 times 5 which is [negative]
+
+00:06:15.790 --> 00:06:21.130
+20, 5x minus 2 to the power of
+
+00:06:20.980 --> 00:06:26.090
+[negative] 5, or if you want to write it
+in a fraction it would be
+
+00:06:25.940 --> 00:06:31.510
+negative 20 over 5x minus 2
+
+00:06:31.360 --> 00:06:36.030
+to the power of 5.
+
+00:06:35.880 --> 00:06:41.520
+and that is the answer for
+chain rule in h of
+
+00:06:41.370 --> 00:06:46.830
+x. For this example I just want to do the power
+case because we don't even have to
+
+00:06:46.680 --> 00:06:51.250
+worry about f of x at all when we're doing the
+power case. Here, again, we have to
+
+00:06:51.100 --> 00:06:55.610
+do the same step first of bringing that up in
+the numerator. So we're going to do
+
+00:06:55.460 --> 00:07:01.010
+that with the negative power on the 4. We're
+going to switch the power on the 4. So
+
+00:07:00.860 --> 00:07:05.550
+it's going to be 5x minus 2 to the power of
+negative 4. But here we do not have to,
+
+00:07:05.460 --> 00:07:09.330
+like I just mentioned, break it up into our f of
+x and our g of x. We can just take
+
+00:07:09.180 --> 00:07:14.270
+the power rule with respect to what's inside and
+then multiply the derivative of the
+
+00:07:14.120 --> 00:07:17.850
+inside, like our power case states. So here, what
+we can do is we can just bring the
+
+00:07:17.700 --> 00:07:23.130
+negative 4 forwards and then have 5x minus 2 and
+then subtract 1. So it's negative
+
+00:07:22.980 --> 00:07:28.630
+5, just like it says right over there. And
+then we can multiply g prime of
+
+00:07:28.480 --> 00:07:33.170
+x. And we already know g prime of x here is 5.
+So all we have to do is multiply 5.
+
+00:07:33.460 --> 00:07:38.950
+And then we get, once again, negative
+20, 5x minus 2 to the power
+
+00:07:38.800 --> 00:07:43.890
+of negative 5. Or if you want as a
+fraction, negative 20 over
+
+00:07:43.740 --> 00:07:47.410
+5x minus 2 to the power of 5.
+
+00:07:48.780 --> 00:07:54.430
+So we got the exact same answer in much fewer
+steps. Yes, we already knew the g
+
+00:07:54.280 --> 00:07:58.630
+prime of x, but even with that stuff included,
+this is much, much quicker because we
+
+00:07:58.480 --> 00:08:02.110
+don't have to worry about finding what our f of
+x is and our g of x is because we
+
+00:08:01.960 --> 00:08:05.850
+know it's always going to be in the same form
+because all we're doing is just having
+
+00:08:05.700 --> 00:08:10.870
+a power to that g of x function. For our last
+example here, we're going to solve the
+
+00:08:10.720 --> 00:08:16.200
+derivative using the power case of the
+chain rule. And we have to first,
+
+00:08:16.050 --> 00:08:19.430
+as always, change the square root into a power
+what we're going to do is we're going
+
+00:08:19.280 --> 00:08:23.650
+to do x cubed plus 4x and we're going to have
+this all to the power of 1 over 2
+
+00:08:23.500 --> 00:08:25.270
+because it's the same as a square root
+
+00:08:26.540 --> 00:08:31.870
+and then instead of getting our f of x and our g
+of x we can just apply that power
+
+00:08:31.720 --> 00:08:36.230
+case we can just take the power rule with
+respect to what's inside that's the same
+
+00:08:36.080 --> 00:08:40.970
+as doing 1 over 2, x cubed plus 4x, and we're
+going to subtract 1 from that so
+
+00:08:40.820 --> 00:08:44.230
+that's going to become negative 1 over 2 and
+we're going to multiply the derivative
+
+00:08:44.080 --> 00:08:48.990
+of the inside that is 3x
+squared plus 4 using
+
+00:08:48.840 --> 00:08:54.130
+the power rule again this will become 3x
+
+00:08:53.980 --> 00:08:59.470
+squared plus 4 over 2 times the square
+
+00:08:59.320 --> 00:09:04.730
+root of x cubed plus 4x if you want
+to instead put it in
+
+00:09:04.580 --> 00:09:10.230
+the fraction and square root
+form and that is the
+
+00:09:10.700 --> 00:09:13.470
+examples of the chain rule and power case

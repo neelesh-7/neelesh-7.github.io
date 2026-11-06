@@ -1,0 +1,316 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.070
+Bismillahirrahmanirrahim.
+
+00:00:02.140 --> 00:00:06.530
+Welcome back calculus students. Let's dive
+right into it. As we know the product
+
+00:00:06.380 --> 00:00:10.630
+rule is when you have two functions and you're
+trying to get their derivative it's
+
+00:00:10.480 --> 00:00:14.670
+going to be the derivative of the first
+function times the second plus the
+
+00:00:14.520 --> 00:00:20.170
+derivative of the second times the
+first. Okay so the first
+
+00:00:20.020 --> 00:00:25.550
+rule I always like to do when we're getting
+started is identify which is my f and
+
+00:00:25.400 --> 00:00:29.510
+which is my g. For my product and quotient rule
+it's usually pretty easy to identify
+
+00:00:29.360 --> 00:00:33.990
+which is which because you can tell by the
+brackets, right? So here I have my f of x
+
+00:00:33.840 --> 00:00:39.370
+here and I have my g of x
+right here, okay? Now
+
+00:00:39.220 --> 00:00:44.850
+before we plug in, just like how we did for the
+first principles when I was doing
+
+00:00:44.700 --> 00:00:49.990
+those examples, I like to first find just my f
+prime and my g prime and then plug
+
+00:00:49.840 --> 00:00:54.550
+them in, just like how in first principles I
+found my f of x plus h and then I plug
+
+00:00:54.400 --> 00:00:58.730
+it in. So here, if we find f prime
+of x, it will equal
+
+00:00:59.380 --> 00:01:04.090
+2x using the power rule here and then the
+constant rule for derivative is that when
+
+00:01:03.940 --> 00:01:08.230
+you take the derivative of a constant it goes to
+zero. So that's it for my f prime
+
+00:01:08.080 --> 00:01:10.550
+and for my g prime of x
+
+00:01:11.280 --> 00:01:15.550
+here we're going to take the power rule for both
+of these terms. The power rule for
+
+00:01:15.400 --> 00:01:18.390
+the first term is, we're going to take that 3
+out and then we're going to take the
+
+00:01:18.240 --> 00:01:23.470
+power rule of x cubed is going to be 3x squared,
+and then we're going to do minus 1
+
+00:01:23.320 --> 00:01:28.410
+because the power rule of x is 1. We can
+expand that. That's going to be
+
+00:01:28.260 --> 00:01:30.450
+9x squared minus 1.
+
+00:01:32.540 --> 00:01:37.930
+Now, because we have all our components, we can
+plug them into the derivative of the
+
+00:01:37.780 --> 00:01:42.950
+product rule. So here, the derivative of p of
+x, because it follows the product
+
+00:01:42.800 --> 00:01:48.070
+rule, is going to be f prime times g
+plus g prime times f.
+
+00:01:47.920 --> 00:01:52.990
+So here f prime is 2x and g is
+3x cubed minus x,
+
+00:01:53.060 --> 00:01:58.710
+plus our f times g prime, f is x squared
+
+00:01:58.560 --> 00:02:02.970
+plus 1, and g prime is 9x squared minus 1.
+
+00:02:03.540 --> 00:02:09.090
+We can expand this. This becomes 6x to
+the 4 minus 2x squared,
+
+00:02:08.960 --> 00:02:14.530
+plus this expansion will be 9x to
+the 4 minus x squared.
+
+00:02:15.280 --> 00:02:20.310
+This will then simplify because of our like
+terms. We have two x to the 4 [terms]
+
+00:02:20.160 --> 00:02:24.970
+and two x to the 2 [terms]. This
+gives us 15x to the 4 minus
+
+00:02:24.820 --> 00:02:30.230
+3x squared. For our next example, we have y
+equals square root of x plus 2
+
+00:02:30.080 --> 00:02:35.610
+times x cubed minus x.
+Because y takes on the
+
+00:02:35.460 --> 00:02:40.970
+same form of f times g, we can
+identify both our f and
+
+00:02:40.820 --> 00:02:46.210
+g and then differentiate using our product rule.
+Again, it's really easy to identify
+
+00:02:46.060 --> 00:02:49.790
+f and g because they're just separated by
+their own independent brackets.
+
+00:02:50.440 --> 00:02:54.490
+And we want to find f prime of x just like we
+did for the first example, so we can
+
+00:02:54.340 --> 00:02:58.670
+just plug those into the formula. But here,
+because we have a square root, let's
+
+00:02:58.520 --> 00:03:03.400
+first rewrite it as x of a power instead of as
+a square root. And we know that
+
+00:03:03.250 --> 00:03:08.470
+square root of x is the same as x to the half
+power or the power of 1 over 2.
+
+00:03:09.120 --> 00:03:14.090
+and then taking the derivative of just f of x
+here, we're going to do power rule on
+
+00:03:13.940 --> 00:03:18.150
+x to the 1 over 2, which becomes 1 over 2 x to
+the minus 1 over 2 because we bring
+
+00:03:18.000 --> 00:03:22.910
+that 1 over 2 forward and we subtract 1 from our
+half and then 2, once we take the
+
+00:03:22.760 --> 00:03:26.890
+derivative of it, it will go to 0 because
+constants always go to 0. Just like our
+
+00:03:26.740 --> 00:03:31.770
+first example, for g prime of x, we can take
+that straight away. We don't have to
+
+00:03:31.620 --> 00:03:37.090
+reorganize or re-represent g of x because
+
+00:03:36.940 --> 00:03:41.800
+they're both in the proper form. You take our
+power rule. Taking the power rule of x
+
+00:03:41.650 --> 00:03:46.520
+cubed will give us 3x squared, and taking the
+power rule of x will give us 1. And
+
+00:03:46.370 --> 00:03:51.470
+then here, we can plug both of these
+into our product rule now
+
+00:03:51.320 --> 00:03:56.960
+so y prime will equal f prime
+of x which is 1
+
+00:03:56.810 --> 00:04:02.130
+over 2 x to the negative 1 over 2 times g
+of x which is x cubed minus x
+
+00:04:01.980 --> 00:04:07.470
+plus f of x which
+
+00:04:07.320 --> 00:04:12.130
+is square root of x or let's actually write it
+as the power like we did last time
+
+00:04:11.980 --> 00:04:17.470
+because it's much easier like that x to
+the 1 over 2 plus 2 times
+
+00:04:17.320 --> 00:04:21.070
+g prime which is 3x squared minus 1.
+
+00:04:21.720 --> 00:04:26.870
+Again let's expand these so we can then
+simplify and add them like our last
+
+00:04:26.720 --> 00:04:32.370
+example here don't be worried if you see
+weird powers of x because
+
+00:04:32.220 --> 00:04:37.790
+how it works is we multiply the
+coefficients and then we add
+
+00:04:37.640 --> 00:04:41.950
+the powers so here we have a coefficient of
+half here we have a coefficient of 1,
+
+00:04:41.800 --> 00:04:46.110
+right, there's [an] arbitrary 1 always, that's
+going to be 1 over 2 x, and then we
+
+00:04:45.960 --> 00:04:51.540
+can add both these powers negative 1
+over 2 plus 3 is 5 over
+
+00:04:51.390 --> 00:04:56.890
+2. and then for the second one we're going
+to have minus because this is
+
+00:04:56.740 --> 00:05:01.330
+1 over 2 times negative 1 or times the negative
+that's on the x it's going to be
+
+00:05:01.180 --> 00:05:06.830
+minus 1 over 2 and we are
+going to do negative
+
+00:05:06.680 --> 00:05:10.730
+1 over 2 plus 1 negative 1 over 2 plus
+1 is the same as 1 half
+
+00:05:11.500 --> 00:05:16.430
+on the other side here we're going to expand
+regular binomial expansion here when we
+
+00:05:16.280 --> 00:05:21.450
+multiply our x to the 1 over 2 times our 3x
+squared. The coefficients 1 and 3
+
+00:05:21.300 --> 00:05:26.510
+multiply will be left with 3. And then 1
+over 2 plus 2 is equal to
+
+00:05:26.360 --> 00:05:27.570
+5 over 2.
+
+00:05:29.400 --> 00:05:34.090
+x to the 1 over 2 times negative 1 will just
+be negative x to the 1 over 2.
+
+00:05:35.480 --> 00:05:41.080
+And then here we just have regular expansion 6x
+squared minus 2. We can add the x
+
+00:05:40.930 --> 00:05:46.550
+to the 5 over 2 and the x to the 5 over 2
+terms, which will give us 7
+
+00:05:46.400 --> 00:05:51.990
+over 2 x to the 5 over 2. We have a
+negative 1 over 2 x to the
+
+00:05:51.840 --> 00:05:57.330
+half and a negative x to the half. This
+is going to be minus 3 over 2
+
+00:05:57.180 --> 00:06:02.800
+x to the half and we have our
+plus 6x squared minus
+
+00:06:02.650 --> 00:06:03.290
+2.
+
+00:06:04.920 --> 00:06:10.550
+Sometimes in some courses and in some
+textbooks they usually like
+
+00:06:10.400 --> 00:06:15.950
+to do the x powers in order, so we could
+instead write it as 7 over 2 x to the
+
+00:06:15.800 --> 00:06:21.170
+5 over 2 plus 6x squared minus 3 over 2
+
+00:06:21.020 --> 00:06:26.550
+x to the 1 over 2 minus 2, because here
+x squared is bigger than x
+
+00:06:26.400 --> 00:06:28.030
+to the half, obviously.
+
+00:06:28.980 --> 00:06:30.890
+Thank you, and see you in quotient rule.
