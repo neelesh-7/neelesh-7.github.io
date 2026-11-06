@@ -1,0 +1,378 @@
+WEBVTT
+
+00:00:00.250 --> 00:00:04.280
+Bismillah, alhamdulillah, salatu wassalamu ala rasulullah.
+Hello calculus students. Today we
+
+00:00:04.130 --> 00:00:08.420
+will be taking higher order derivatives. Let's
+get into it. For our first example, we're
+
+00:00:08.270 --> 00:00:12.400
+tasked with finding the second
+derivative using Leibniz notation.
+
+00:00:13.200 --> 00:00:17.830
+And our function is y equals 6x
+to the power of 7.
+
+00:00:18.060 --> 00:00:22.790
+So for our first derivative, it's going to be dy
+over dx. And here it's just the power
+
+00:00:22.640 --> 00:00:27.310
+rule. So we're going to take the 6 out as a
+factor and then apply the power rule to
+
+00:00:27.160 --> 00:00:31.790
+our x to the power of 7. As we know, this will
+just become 7x to the power of 6.
+
+00:00:32.060 --> 00:00:34.070
+We're going to multiply that 6, 7.
+
+00:00:35.160 --> 00:00:37.950
+So that becomes 42x to the power of 6.
+
+00:00:38.850 --> 00:00:43.200
+And then we're going to take the derivative of
+this one more time. It's very simple.
+
+00:00:43.370 --> 00:00:45.120
+We're just going to go one more time.
+
+00:00:45.770 --> 00:00:49.580
+The subscript, though, is going to be a little
+bit different here. You want to make
+
+00:00:49.430 --> 00:00:53.040
+sure that the 2 is before the y in the
+numerator and then after the x in the
+
+00:00:52.890 --> 00:00:57.720
+denominator. And here we're going to have that
+42, and then we're going to have 6x
+
+00:00:57.570 --> 00:01:03.070
+to the 5. That's just applying our power rule
+to x to the power of 6 and then after
+
+00:01:02.920 --> 00:01:08.390
+that you're gonna multiply these two you're
+gonna get 252x to the power of
+
+00:01:08.240 --> 00:01:12.640
+5. Now for our next example we're tasked with
+getting the third derivative
+
+00:01:13.130 --> 00:01:18.600
+of 3 square root x. Okay, first as
+always let's rewrite this
+
+00:01:18.450 --> 00:01:22.620
+and instead of a square root as a power so it's
+gonna be 3x to the power of half.
+
+00:01:23.070 --> 00:01:28.480
+Now let's take our first derivative.
+That's going to be 3 times 1
+
+00:01:28.330 --> 00:01:33.040
+over 2x to the negative 1 over 2. When we
+subtract that 1 from the half, we're going
+
+00:01:32.890 --> 00:01:37.380
+to get left with negative half. And then we are
+going to multiply this in. It'll be
+
+00:01:37.230 --> 00:01:42.300
+3 over 2x to the negative 1 over 2. That is our
+first derivative. So we're going to
+
+00:01:42.150 --> 00:01:47.320
+derive it again for our second derivative. It's
+going to be [f] double prime of x
+
+00:01:47.170 --> 00:01:49.280
+equals 3
+
+00:01:50.250 --> 00:01:54.660
+over 2. We're going to bring that negative 1 over
+2 down, and it's going to become x
+
+00:01:54.510 --> 00:01:59.760
+minus 3 over 2 as our power now, because we're
+going to add another negative 1 to
+
+00:01:59.610 --> 00:02:05.040
+our power. Also, we could write this instead as
+a 2 here. It doesn't really matter.
+
+00:02:05.030 --> 00:02:08.400
+They mean the exact same thing. I just like
+having the dashes, so I'm going to put
+
+00:02:08.250 --> 00:02:12.760
+double dash for this one. We should probably
+expand this one first. Once we multiply
+
+00:02:12.610 --> 00:02:17.180
+that 3 over 2 with that negative 1 over 2,
+we're going to be left with 3 over 4
+
+00:02:17.030 --> 00:02:22.600
+negative, and then x to the
+negative 3 over 2. Taking our
+
+00:02:22.450 --> 00:02:26.520
+third derivative to get our answer, we're going
+to keep that negative 3 over 4 out.
+
+00:02:26.670 --> 00:02:31.480
+We're going to have, once we apply the power
+rule here negative 3 over 2x to the
+
+00:02:31.330 --> 00:02:36.550
+negative 5 over 2 and then once we
+multiply these two we will get
+
+00:02:36.400 --> 00:02:41.790
+9 over 8x to the negative 5 over 2
+as our final answer
+
+00:02:41.640 --> 00:02:47.040
+again if you do not want to write this x as
+a fraction and negative power
+
+00:02:46.890 --> 00:02:50.520
+you could instead go 9 over 8
+
+00:02:52.140 --> 00:02:55.070
+square root of x to the power of 5.
+
+00:02:56.600 --> 00:03:02.150
+For our third example, we have y equals x
+squared plus 1 over x, and this time
+
+00:03:02.000 --> 00:03:06.870
+our task is to find the second derivative of y
+and then figure out what the value of
+
+00:03:06.720 --> 00:03:09.970
+the second derivative is when we
+plug in x equals 1.
+
+00:03:10.920 --> 00:03:15.550
+And when we're going to take the derivative of
+this function, because we have a
+
+00:03:15.400 --> 00:03:19.890
+fraction with the x both in the numerator or the
+denominator, we're going to have to
+
+00:03:19.740 --> 00:03:22.690
+pick either to use the product
+or quotient rule.
+
+00:03:23.340 --> 00:03:27.350
+We could use the quotient rule because it's in
+the form of a fraction. And we could
+
+00:03:27.200 --> 00:03:32.230
+use the product rule if we instead make this x
+go up with a negative power. But
+
+00:03:32.080 --> 00:03:36.230
+because our denominator doesn't have that many
+terms, it's going to be pretty easy
+
+00:03:36.080 --> 00:03:37.130
+to use the quotient rule.
+
+00:03:38.500 --> 00:03:43.570
+So obviously our quotient rule is, in case you
+guys forgot, when we have the form f
+
+00:03:43.420 --> 00:03:49.070
+over g in our equation, f [over] g prime or
+the derivative of f [over] g
+
+00:03:48.920 --> 00:03:54.170
+will be equal to f prime [times] g minus f g
+
+00:03:54.020 --> 00:03:59.470
+prime all over g squared and
+here our x is the
+
+00:03:59.320 --> 00:04:04.890
+g and our f is the numerator
+
+00:04:04.740 --> 00:04:08.150
+which is x squared plus one. I'm just going to
+keep them as f and g although you guys
+
+00:04:08.000 --> 00:04:12.750
+know it's f of x and g of x, so I want
+to find our f of x prime
+
+00:04:12.600 --> 00:04:18.150
+and our g of x prime, so we can
+plug them into our
+
+00:04:18.000 --> 00:04:19.430
+equation for the quotient rule.
+
+00:04:20.730 --> 00:04:25.000
+f of x prime will be equal to 2x, because
+when we take the derivative of this
+
+00:04:24.850 --> 00:04:29.460
+numerator, that x squared will go to 2x using the
+power rule, and the 1 will go to 0
+
+00:04:29.310 --> 00:04:33.680
+because of the constant rule. And g prime of x
+will just be 1 using the power rule
+
+00:04:33.530 --> 00:04:39.120
+on our x. Now we can plug it in to find our
+y prime so y prime will equal
+
+00:04:38.970 --> 00:04:44.120
+f prime of x times g so that's
+going to be 2x times x
+
+00:04:43.970 --> 00:04:49.420
+which is 2x squared and our
+f times g prime
+
+00:04:49.270 --> 00:04:54.740
+our g prime is one and our f is x
+squared plus one so but
+
+00:04:54.590 --> 00:04:58.100
+because there's a negative in front of that f
+times g prime it's going to be
+
+00:04:57.950 --> 00:05:00.940
+negative x squared minus one and
+
+00:05:01.720 --> 00:05:06.470
+this is all going to be over g squared and g is
+x so it's going to be x squared.
+
+00:05:07.440 --> 00:05:11.390
+Now we can subtract that 2x squared and that x
+squared. So we're going to be left
+
+00:05:11.240 --> 00:05:16.730
+with x squared minus 1 all over x squared. That
+is our first derivative. So we're
+
+00:05:16.580 --> 00:05:20.430
+going to have to take this one more time, the
+derivative of y one more time. And
+
+00:05:20.280 --> 00:05:25.710
+here we're going to use the quotient rule
+again with [x squared] minus 1 as our f and x
+
+00:05:25.560 --> 00:05:30.710
+squared as our g. So we're going to find f
+prime of x again and g prime of x. f
+
+00:05:30.560 --> 00:05:35.920
+prime of x here is going to be 2x again
+because we have x squared in that
+
+00:05:35.770 --> 00:05:40.580
+numerator and the negative one will go to zero.
+And here we have now this time x
+
+00:05:40.430 --> 00:05:46.040
+squared for our g. So our g prime of x
+will also equal 2x just like
+
+00:05:45.890 --> 00:05:46.680
+our f prime.
+
+00:05:47.500 --> 00:05:52.970
+Now we have all the components to do the
+quotient rule again. So we can go [y] double
+
+00:05:52.820 --> 00:05:57.810
+prime equals f prime times g.
+That's going to be
+
+00:05:57.660 --> 00:06:03.290
+2x cubed because we're multiplying 2x
+times x squared. And then we're
+
+00:06:03.140 --> 00:06:04.530
+going to be subtracting
+
+00:06:05.260 --> 00:06:10.770
+g prime of x times f. g prime of x
+times f is going to be
+
+00:06:10.620 --> 00:06:16.110
+negative 2x times x squared minus 1. It's
+negative 2 because, again, we
+
+00:06:15.960 --> 00:06:20.810
+have that negative in the quotient rule. This is
+all going to be over g squared. g
+
+00:06:20.660 --> 00:06:24.250
+is x squared, so g squared will be
+x to the power of 4.
+
+00:06:26.130 --> 00:06:30.760
+Simplifying this or expanding and then
+simplifying, We will first get
+
+00:06:30.610 --> 00:06:33.800
+2x
+
+00:06:34.800 --> 00:06:39.140
+cubed minus 2x cubed plus
+
+00:06:38.990 --> 00:06:42.460
+2x all over x to the 4,
+
+00:06:43.280 --> 00:06:44.730
+x to the 4.
+
+00:06:45.480 --> 00:06:51.090
+Here the 2x cubes will cancel and we
+will be left with 2x over
+
+00:06:50.940 --> 00:06:56.270
+x to the 4. You can reduce it by 1x
+which is going to become 2 over
+
+00:06:56.120 --> 00:06:57.490
+x cubed.
+
+00:06:59.660 --> 00:07:05.090
+That is the answer for our y double prime
+and which means our answer
+
+00:07:04.940 --> 00:07:10.450
+for our y double prime when x equals 1 will just
+be to substitute 1 in wherever we
+
+00:07:10.300 --> 00:07:14.610
+have x and because we only have an x in the
+denominator and the x is cubed it's
+
+00:07:14.460 --> 00:07:20.050
+going to be 2 over 1 cubed 1
+cubed is 1 so 2
+
+00:07:19.900 --> 00:07:25.160
+over 1 will equal 2 and those are the examples
+for the higher order derivatives
+
+00:07:25.010 --> 00:07:26.260
+see you in the next one

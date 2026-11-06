@@ -1,0 +1,597 @@
+WEBVTT
+
+00:00:00.100 --> 00:00:04.970
+Here we have car A leaves the intersection
+heading south at 20 kilometers per hour.
+
+00:00:05.100 --> 00:00:10.650
+One hour later, car B leaves the same
+intersection heading east at 30 kilometers per
+
+00:00:10.500 --> 00:00:16.110
+hour. How fast is the distance between
+them changing two hours after
+
+00:00:15.960 --> 00:00:21.590
+car A leaves? Now, I know this is a little
+bit longer than our last question,
+
+00:00:21.580 --> 00:00:26.870
+but it still follows the same systematic
+process. First, we have to find our knowns
+
+00:00:26.720 --> 00:00:30.490
+and unknowns, or if you want to call them givens
+and our find, the thing we have to
+
+00:00:30.340 --> 00:00:34.670
+find. And then next, we have to find an
+equation that models the relationship
+
+00:00:34.520 --> 00:00:38.990
+between them. And then third, we take our knowns
+and we plug them into that equation
+
+00:00:38.840 --> 00:00:43.700
+and the derivative of that equation, which is
+what the related rates in calculus is,
+
+00:00:43.630 --> 00:00:43.880
+right?
+
+00:00:44.540 --> 00:00:49.210
+So let's go through it. in our first sentence,
+we have car A leaves an intersection
+
+00:00:49.060 --> 00:00:54.290
+heading south at 20 kilometers per hour. I
+don't think we have any unknowns here,
+
+00:00:54.180 --> 00:00:58.850
+but we are given that A is going south at 20
+kilometers per hour. So that's a good
+
+00:00:58.700 --> 00:01:02.090
+piece of information that we can use to
+help make our equations.
+
+00:01:02.810 --> 00:01:08.320
+Now, the next sentence, we have one hour later,
+car B leaves the same intersection
+
+00:01:08.170 --> 00:01:13.760
+heading east at 30 kilometers per hour. Again,
+here we have information about car
+
+00:01:13.610 --> 00:01:18.980
+B, its direction and its speed, so we're
+going to underline it as a given.
+
+00:01:19.290 --> 00:01:23.460
+But this is not the only information
+given to us in this sentence.
+
+00:01:24.520 --> 00:01:28.930
+While I said last time, and it's still true for
+any related rates problem, usually
+
+00:01:28.780 --> 00:01:33.870
+if we have any numbers that are important, the
+reason this time one hour later is
+
+00:01:33.720 --> 00:01:37.910
+important for us, because even though it doesn't
+give information specifically about
+
+00:01:37.760 --> 00:01:43.230
+A or B, it gives information about A
+and B. It gives information
+
+00:01:43.080 --> 00:01:48.330
+about the relationship. we know that B
+is one hour after A. So
+
+00:01:48.180 --> 00:01:52.090
+because it relates both of them together, it's a
+useful piece of information for us.
+
+00:01:52.000 --> 00:01:54.970
+So we're going to underline
+one hour later,
+
+00:01:56.230 --> 00:01:57.120
+okay?
+
+00:01:58.230 --> 00:02:03.480
+In our third sentence, we have how fast is the
+distance between them changing two
+
+00:02:03.330 --> 00:02:08.680
+hours after car A leaves? Now, we can
+underline this whole thing as our
+
+00:02:08.530 --> 00:02:13.480
+unknown because not only, because someone could
+argue, okay, well, the question ends
+
+00:02:13.330 --> 00:02:16.760
+at the distance between them changing, but it
+doesn't because we have that condition
+
+00:02:16.610 --> 00:02:21.540
+of two hours after a leaves so we're going to
+underline this full sentence as our
+
+00:02:21.390 --> 00:02:25.380
+unknown or as a thing that we have to find and
+it makes sense because there's it's
+
+00:02:25.230 --> 00:02:30.190
+they're asking a question right and then also
+because here we're once again relating
+
+00:02:30.040 --> 00:02:35.350
+what is happening to a and b with this two
+hours after car a leaves we'll
+
+00:02:35.200 --> 00:02:40.070
+underline it because now we know
+more information about
+
+00:02:39.920 --> 00:02:44.410
+when um or the difference between the
+departure time of a and b
+
+00:02:44.960 --> 00:02:50.410
+now the next step just like our first question
+we have to find an equation that
+
+00:02:50.260 --> 00:02:54.670
+models their relationship or relationship of the
+things that matter in this equation
+
+00:02:54.900 --> 00:03:00.510
+now it's a little bit harder for us in this
+question than the last question because
+
+00:03:00.360 --> 00:03:04.910
+usually questions when we're dealing with area
+or volume the equations are easily
+
+00:03:04.760 --> 00:03:10.310
+ready because we know the equations of area or
+volume especially if we have them
+
+00:03:10.160 --> 00:03:14.770
+right it's pretty easy to pull up here though
+it's a little bit more hidden. And
+
+00:03:14.620 --> 00:03:19.510
+usually when we're dealing with problems that
+have related rates problems that we
+
+00:03:19.360 --> 00:03:24.710
+can't tell exactly what we need to do, we should
+draw the components we have and try
+
+00:03:24.560 --> 00:03:27.490
+to figure out what's missing for
+what we need to get.
+
+00:03:28.190 --> 00:03:31.820
+So here what we should do is first draw
+
+00:03:33.470 --> 00:03:38.980
+the vector of a, because we know
+that a's vector is
+
+00:03:38.830 --> 00:03:44.240
+the velocity of it going south. So we
+can draw A as an arrow
+
+00:03:44.090 --> 00:03:49.630
+here, and have this be its 20
+kilometers per hour, and have it
+
+00:03:49.480 --> 00:03:54.350
+going south or down. And then we also have
+B, and we can label this A.
+
+00:03:55.390 --> 00:03:59.360
+And then we also have B going east at 30
+kilometers per hour, so we can also draw
+
+00:03:59.210 --> 00:04:03.120
+what B is doing. And because it's at the same
+intersection as it's mentioned, we
+
+00:04:02.970 --> 00:04:07.750
+know that they start at the same point. And then
+I can draw here 30 kilometers per
+
+00:04:07.600 --> 00:04:08.030
+hour
+
+00:04:09.410 --> 00:04:10.860
+and B.
+
+00:04:13.120 --> 00:04:17.830
+Now, if these guys were leaving at the same
+time, it would be pretty easy for us to
+
+00:04:17.680 --> 00:04:22.670
+find what C is right away because we
+could just connect B and A,
+
+00:04:22.560 --> 00:04:28.190
+and then we would know what our C vector
+is or what our velocity is
+
+00:04:28.040 --> 00:04:33.510
+for C as well. But because they leave at
+different times, this is not an accurate
+
+00:04:33.360 --> 00:04:38.810
+representation of what's happening because
+while A is going at 20 and B
+
+00:04:38.660 --> 00:04:42.550
+is going at 30, B is leaving
+one hour later.
+
+00:04:43.370 --> 00:04:48.860
+So what we can instead do is compare
+their distances. Because since
+
+00:04:48.710 --> 00:04:53.600
+we know B's velocity and A's velocity, and we
+know how long they've been at this
+
+00:04:53.450 --> 00:04:58.840
+velocity, we can multiply the time by
+their velocity to get instead
+
+00:04:58.690 --> 00:05:03.810
+vectors for our distance. So
+here we know that
+
+00:05:03.660 --> 00:05:09.070
+A, that B leaves one hour later
+than A, and we're
+
+00:05:08.920 --> 00:05:14.410
+calculating it two hours after A leaves.
+So that means to find out what
+
+00:05:14.260 --> 00:05:19.590
+our distance of A is, we'll keep that as
+lowercase a, we'll say a lowercase
+
+00:05:19.440 --> 00:05:23.990
+a equals the 20 kilometers per hour
+
+00:05:24.100 --> 00:05:29.590
+multiplied by the two hours it took A.
+So here the hours can cancel
+
+00:05:29.440 --> 00:05:34.810
+out, and then we have 40 kilometers per, just
+kilometers, sorry, not kilometers per
+
+00:05:34.660 --> 00:05:38.830
+hour, for A. That's how far A
+traveled. And for B,
+
+00:05:39.330 --> 00:05:43.280
+we know that it traveled 30
+kilometers per hour,
+
+00:05:44.210 --> 00:05:49.500
+and because it was one hour later than A, it
+only traveled for one hour. So we're
+
+00:05:49.350 --> 00:05:53.160
+going to multiply this by one hour, and
+then we get 30 kilometers for B.
+
+00:05:54.090 --> 00:05:57.560
+Now, if we draw A and B, we
+can draw A here.
+
+00:05:59.720 --> 00:06:03.500
+It's going to be a little bit longer than B, so
+I'll make it a little bit longer.
+
+00:06:03.650 --> 00:06:08.460
+Here, we're going to draw 40. And
+here, we will draw our 30,
+
+00:06:09.300 --> 00:06:14.790
+a little bit longer. Then we can figure out the
+relationship between the distance
+
+00:06:14.640 --> 00:06:19.800
+of A and B. So we know, at least
+we might not know
+
+00:06:19.650 --> 00:06:23.980
+how fast the distance between them is
+changing, but we can find out just the
+
+00:06:23.830 --> 00:06:29.460
+distance between them, because the
+distance C here will be 40, or A
+
+00:06:29.310 --> 00:06:34.260
+squared, because 40 is equal to A, plus B
+squared. So we can now have a relationship
+
+00:06:34.110 --> 00:06:38.720
+that models their distances, which is the
+Pythagorean theorem. We have A squared
+
+00:06:38.570 --> 00:06:43.720
+plus B squared equals C squared,
+okay? And because
+
+00:06:43.570 --> 00:06:48.480
+this models our distance, we know
+that the derivative
+
+00:06:48.330 --> 00:06:53.940
+of the distance is time. So if we take
+
+00:06:53.790 --> 00:06:58.880
+the derivative of this whole
+equation, implicitly
+
+00:06:58.830 --> 00:07:04.380
+doing it with Leibniz notation, we can
+derive all of them with
+
+00:07:04.230 --> 00:07:09.680
+respect to time. So we can do d of a
+squared over t over dt
+
+00:07:10.680 --> 00:07:15.390
+plus d of b squared over dt
+
+00:07:16.450 --> 00:07:20.200
+equals d of c squared over dt.
+
+00:07:21.060 --> 00:07:26.550
+Now, using chain and
+Leibniz, we can get 2a
+
+00:07:26.400 --> 00:07:31.500
+da over dt plus 2b db over dt
+
+00:07:32.450 --> 00:07:38.020
+equals 2c dc over dt, just like we did
+for our last one when we were
+
+00:07:37.870 --> 00:07:43.340
+doing the, when we were deriving
+surface area equals 4 pi
+
+00:07:43.190 --> 00:07:44.140
+r squared, right?
+
+00:07:45.180 --> 00:07:50.610
+So now we actually know A as 40. So
+we know this component.
+
+00:07:50.860 --> 00:07:51.910
+We know B.
+
+00:07:52.580 --> 00:07:58.070
+But we don't yet know C. But we also know
+the rates of A and B, because we
+
+00:07:57.920 --> 00:08:02.610
+have them from up here. And these are the rates
+for A and B, right? As I labeled
+
+00:08:02.460 --> 00:08:07.530
+them capital and capital. So the only two
+things we're missing right now is our
+
+00:08:07.380 --> 00:08:12.960
+c and our dc over dt. And from our
+Pythagorean theorem,
+
+00:08:12.810 --> 00:08:17.220
+we can find out c as well. So let's quickly go
+find out c and then plug them all in
+
+00:08:17.070 --> 00:08:22.570
+to find out the rate of c. So here
+we can go and we can do,
+
+00:08:22.540 --> 00:08:26.690
+that means c equals the square root of
+a squared plus b squared.
+
+00:08:27.380 --> 00:08:32.670
+So C equals square root of 40
+
+00:08:32.520 --> 00:08:37.590
+squared plus 30 squared. So C
+will then equal
+
+00:08:38.020 --> 00:08:39.490
+1,600 plus 900.
+
+00:08:40.370 --> 00:08:44.940
+And then let's quickly, that'll be, actually,
+we don't need to do a calculator.
+
+00:08:44.910 --> 00:08:50.440
+That'll be [√2,500], which would be 50. So C
+equals 50. So now we can plug
+
+00:08:50.290 --> 00:08:53.460
+everything into here and solve
+for our dc over dt,
+
+00:08:54.350 --> 00:08:58.500
+because this would be our C. And of course,
+this is in kilometers, right?
+
+00:08:59.920 --> 00:09:05.370
+So plugging everything into our principal
+equation, we have 2 times 40
+
+00:09:05.220 --> 00:09:06.710
+for A, 40 kilometers,
+
+00:09:09.150 --> 00:09:13.850
+times 20 for our rate of A, 20
+kilometers per hour,
+
+00:09:14.110 --> 00:09:19.380
+plus 2 times B, which is 30 kilometers,
+
+00:09:19.990 --> 00:09:23.120
+times 30 kilometers per hour
+
+00:09:24.600 --> 00:09:30.170
+equals 2 times 50 kilometers, which is
+
+00:09:30.020 --> 00:09:30.570
+our C,
+
+00:09:31.660 --> 00:09:36.380
+times our unknown, which is
+dc over dt. Now
+
+00:09:36.230 --> 00:09:41.000
+rearranging, we get DC over
+
+00:09:41.430 --> 00:09:47.040
+DT is equal to 2
+
+00:09:46.890 --> 00:09:52.280
+times 40 times 20. It's the same as 40
+squared, which would be 1
+
+00:09:52.130 --> 00:09:52.820
+,600.
+
+00:09:53.650 --> 00:09:59.160
+And this kilometers is going to be kilometers
+squared over h because we have 2
+
+00:09:59.010 --> 00:10:04.260
+kilometers, so it's kilometers per hour squared.
+And then here we have 30 times 30,
+
+00:10:04.310 --> 00:10:09.420
+which is 900, times 2, which is 1 ,800.
+So we're going to do plus
+
+00:10:09.850 --> 00:10:14.290
+1 ,800 kilometers
+
+00:10:14.140 --> 00:10:19.760
+squared per hour. And we're going
+to divide that all by 2
+
+00:10:19.610 --> 00:10:23.600
+times 50 kilometers, which is
+100 kilometers.
+
+00:10:25.280 --> 00:10:28.850
+And this will then go to
+
+00:10:29.660 --> 00:10:35.260
+dc over dt being equal to,
+
+00:10:35.110 --> 00:10:40.520
+if we add these two together, it becomes
+3 ,400. 3 ,400 divided by
+
+00:10:40.370 --> 00:10:45.980
+100 is 34. And here we have
+kilometers squared per hour,
+
+00:10:45.890 --> 00:10:50.880
+and here we have one kilometer. So we can divide
+one, divide one, divide one. So it
+
+00:10:50.730 --> 00:10:53.860
+becomes 34 kilometers per hour.
+
+00:10:54.550 --> 00:10:59.950
+That is the answer to our question. Quick recap,
+because I know there was a lot that
+
+00:10:59.800 --> 00:11:04.410
+happened. We started off by first having this
+super big question, and we took out
+
+00:11:04.260 --> 00:11:08.470
+what was important from it. We took our knowns
+and our unknowns. The knowns could
+
+00:11:08.320 --> 00:11:12.650
+have been conditions or they could have been
+readily available information. Some
+
+00:11:12.500 --> 00:11:16.990
+readily available information we had is
+both our rates. We had what our
+
+00:11:16.840 --> 00:11:21.630
+da over dt was and our db over dt was.
+
+00:11:22.560 --> 00:11:27.350
+And what we did with both of those is because
+we knew the time for the DA and the
+
+00:11:27.200 --> 00:11:31.750
+DB, we did a quick calculation
+here, multiplying our
+
+00:11:31.600 --> 00:11:36.780
+velocity multiplied by the
+individual time.
+
+00:11:36.850 --> 00:11:42.420
+We got our distances, related our distances with
+Pythagorean theorem, a squared plus
+
+00:11:42.270 --> 00:11:46.380
+b squared equals c squared. And then because we
+knew that is our relationship, we
+
+00:11:46.230 --> 00:11:49.880
+were able to take the derivative of it and
+figure out our velocity relationship as
+
+00:11:49.730 --> 00:11:54.420
+well, plugged in our velocities, and plugged
+in the c that we found from our a
+
+00:11:54.270 --> 00:11:59.120
+squared plus b squared. And we were able to find
+the answer because the only thing
+
+00:11:58.970 --> 00:12:04.230
+that was left that was unknown was our DC over
+DT this is probably the hardest type
+
+00:12:04.080 --> 00:12:09.510
+of question you could get as a related rates
+problem but they're always gonna be
+
+00:12:09.360 --> 00:12:13.530
+in a triangle form for what I've seen and the
+same thing happened when I was doing
+
+00:12:13.380 --> 00:12:17.530
+unit one it was always end up as a triangle and
+the Pythagorean theorem identity is
+
+00:12:17.380 --> 00:12:19.890
+what we had to end up using thank you

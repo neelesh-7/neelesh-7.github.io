@@ -1,0 +1,559 @@
+WEBVTT
+
+00:00:00.160 --> 00:00:04.090
+We have a conical tank is nine meters deep with a
+radius of three meters at the top.
+
+00:00:04.440 --> 00:00:08.690
+Water enters at four meters squared per minute.
+How fast is the depth when the water
+
+00:00:08.540 --> 00:00:13.350
+is six meters deep? Again, let's do our same
+process of finding our knowns and
+
+00:00:13.200 --> 00:00:17.990
+unknowns and then finding our equation and
+then subbing those in to find our
+
+00:00:17.840 --> 00:00:21.550
+unknown, subbing our knowns in to find our
+unknown. So from the beginning here, in
+
+00:00:21.400 --> 00:00:24.970
+our first sentence, we're told it's a conical
+tank. That's our first piece of
+
+00:00:24.820 --> 00:00:27.930
+information. So we know what
+shape this tank is in.
+
+00:00:28.800 --> 00:00:32.790
+We know that the height of this tank is 9
+meters deep. So we got one of the
+
+00:00:32.640 --> 00:00:33.190
+variables.
+
+00:00:33.840 --> 00:00:37.510
+And we are told that the
+radius is 3 meters.
+
+00:00:39.090 --> 00:00:44.320
+So now we know the shape, the height, and the
+radius. And we're told when filling up
+
+00:00:44.170 --> 00:00:49.220
+this tank, water enters at 4 meters squared per
+minute. So now we know the rate of
+
+00:00:49.070 --> 00:00:50.080
+our volume.
+
+00:00:51.650 --> 00:00:56.500
+Thirdly, we're told how fast the depth when the
+water is six meters deep. So this is
+
+00:00:56.350 --> 00:01:00.660
+what we have to find out. We have to find how
+fast the depth is. So what's the rate
+
+00:01:00.510 --> 00:01:04.840
+of the depth? And we have to find it when the
+water is six meters deep. So this
+
+00:01:04.690 --> 00:01:09.180
+whole thing is our question, not just that first
+part. And because we're told it's
+
+00:01:09.030 --> 00:01:12.400
+going to be at six meters, that's also another
+piece of given information that can
+
+00:01:12.250 --> 00:01:17.140
+help us find it because we know we have to
+substitute six in when we're getting that
+
+00:01:16.990 --> 00:01:18.160
+rate of the depth.
+
+00:01:19.030 --> 00:01:24.580
+So the next piece in our formula, in our
+systematic formula for solving, would
+
+00:01:24.430 --> 00:01:28.600
+be getting an equation that models it. Well,
+we know we're having, we have two
+
+00:01:28.450 --> 00:01:32.920
+variables. We know we have an r variable. We know
+we have an h variable. And we know
+
+00:01:32.770 --> 00:01:38.300
+it's the velocity, volume of the cone. So even
+without those two variables, we
+
+00:01:38.150 --> 00:01:43.660
+know that we're going to have to do V equals
+1 over 3 pi r squared h because
+
+00:01:43.510 --> 00:01:47.900
+we're dealing with volume and we're dealing
+with these variables and the rates.
+
+00:01:47.870 --> 00:01:49.060
+Everything has to do with this equation.
+
+00:01:49.830 --> 00:01:54.340
+So our next step, just like our last two
+questions, would be to take the derivative
+
+00:01:54.190 --> 00:01:58.960
+of this with respect to time. But before I do
+that, I want to mention something
+
+00:01:58.810 --> 00:02:03.740
+because there's actually two ways of solving
+this question. And the second way,
+
+00:02:03.770 --> 00:02:07.920
+which I'm going to do after I show you the
+regular way we've been doing it, is how a
+
+00:02:07.770 --> 00:02:12.520
+lot of classes and textbooks usually teach how
+to solve this related rates problem.
+
+00:02:12.370 --> 00:02:16.540
+but I think it makes much more sense to follow
+through what we've been doing for the
+
+00:02:16.390 --> 00:02:19.880
+last two questions first and then
+teaching you that second approach
+
+00:02:21.410 --> 00:02:26.240
+To continue on this formula we would take the
+derivative with respect to time so here
+
+00:02:26.090 --> 00:02:31.390
+that would be dv over dt
+equals 1 over 3 pi and
+
+00:02:34.010 --> 00:02:37.740
+then you're gonna have a bracket here and
+then we're gonna have d r squared
+
+00:02:38.490 --> 00:02:44.090
+over dt times h plus r squared
+
+00:02:43.940 --> 00:02:48.650
+dh over dt now if you're confused on what we did
+here because it looks a little bit
+
+00:02:48.500 --> 00:02:53.670
+than the last two because we have both these
+variables that are gonna be derived
+
+00:02:53.520 --> 00:02:58.870
+with dt we're using our product rule and
+obviously just like our first
+
+00:02:58.720 --> 00:03:02.830
+example we have a factor here that doesn't have
+any variables related to it so you
+
+00:03:02.680 --> 00:03:06.650
+don't have to do any we don't have to derive
+these by dt because they're just a
+
+00:03:06.500 --> 00:03:11.300
+factor. Now expanding one more step
+we would get 1 over 3 pi
+
+00:03:11.850 --> 00:03:17.460
+2r dr 2rh dr over
+
+00:03:17.310 --> 00:03:21.960
+dt plus r squared dh over dt.
+
+00:03:22.710 --> 00:03:27.780
+This is all equal to dv over dt. So now
+we have our first equation
+
+00:03:27.630 --> 00:03:32.560
+when without the rates and our second
+equation with the rates.
+
+00:03:32.930 --> 00:03:38.380
+So let's see what from these two equations can
+we fill out based on the givens that
+
+00:03:38.230 --> 00:03:41.520
+we have in the question. Well, starting with
+the second equation, we're told that
+
+00:03:41.370 --> 00:03:45.680
+waters enter at four meters squared per
+minute. So this is a given, so we can
+
+00:03:45.530 --> 00:03:46.520
+underline it with black.
+
+00:03:47.370 --> 00:03:52.980
+And we also know that we need to find how fast
+the depth is when the water is at six
+
+00:03:52.830 --> 00:03:58.460
+meters. So because this is our question, we're
+going to plug in the six, not the
+
+00:03:58.310 --> 00:04:01.580
+nine, because the nine is at the full tank but we
+don't care what's at the full tank
+
+00:04:01.430 --> 00:04:07.000
+we only care when the water is six meters deep
+so that means we have this h but
+
+00:04:07.200 --> 00:04:12.390
+we do not have these r's because again we need
+to find out what the r is when the
+
+00:04:12.240 --> 00:04:15.350
+water is six meters deep not what we've been
+given in the question which is three
+
+00:04:15.200 --> 00:04:19.750
+meters deep so the r's we can have them as red
+because these are what we need to
+
+00:04:19.600 --> 00:04:24.970
+these are part of the two part of the
+steps we would take to
+
+00:04:24.820 --> 00:04:30.400
+find our final answer and then for
+our dr over t we're also
+
+00:04:30.250 --> 00:04:35.700
+not given the rate of r so we're going to
+have to find this as well before we
+
+00:04:35.550 --> 00:04:40.520
+find what the question is asking us which is how
+fast the depth is which is our dh
+
+00:04:40.370 --> 00:04:45.510
+over dt so we know that we need to
+
+00:04:45.360 --> 00:04:51.000
+find dh over dt by first finding what
+
+00:04:50.850 --> 00:04:56.260
+our r and dr over dt is okay so how can we
+
+00:04:56.110 --> 00:05:01.560
+find what our r and dr over dt is well
+first we can start by just
+
+00:05:01.410 --> 00:05:07.000
+trying to find our r and again if
+whenever we get stuck on
+
+00:05:06.850 --> 00:05:11.260
+what where to go next just like our last
+example it's easiest if we just model
+
+00:05:11.110 --> 00:05:14.920
+what's happening with a diagram it's a little
+bit harder to draw these three
+
+00:05:14.770 --> 00:05:19.160
+diagrams and i'm going to try my best i'm going
+to draw a circle and a cone here and
+
+00:05:19.010 --> 00:05:23.540
+we're going to imagine the height is at 6. So
+this is like majority. We'll say the h
+
+00:05:23.390 --> 00:05:24.840
+here is 6 meters, okay?
+
+00:05:25.650 --> 00:05:31.300
+Because we know the full height is 9
+meters and the radius
+
+00:05:31.150 --> 00:05:36.060
+is 3 meters, then we know that
+
+00:05:35.910 --> 00:05:41.400
+here the radius is one -third of the height.
+So you could say here that the
+
+00:05:41.250 --> 00:05:46.890
+radius equals one -third of h, okay?
+And because this cone
+
+00:05:46.740 --> 00:05:51.950
+is straight and not jagged, we know that this
+relationship of r equals 1 over
+
+00:05:51.800 --> 00:05:54.610
+3h is going to be consistent
+throughout the full cone.
+
+00:05:55.270 --> 00:06:00.140
+So what we can do is in this
+equation, we can substitute r
+
+00:06:00.310 --> 00:06:04.520
+with 1 over 3h. So we can have 1 over 3 pi
+
+00:06:04.560 --> 00:06:06.870
+is 2
+
+00:06:08.130 --> 00:06:13.640
+times 1 over 3 h or h
+
+00:06:13.490 --> 00:06:18.090
+over 3 times h times dr over dt
+
+00:06:18.350 --> 00:06:23.090
+plus h over 3 all squared
+
+00:06:22.940 --> 00:06:28.410
+dh over dt. So now we have changed
+
+00:06:28.260 --> 00:06:33.450
+dr to h and we already know what our h is
+because our h is 6. So all that's left is
+
+00:06:33.300 --> 00:06:38.630
+for us to find what dr over dt
+is. But if you have a
+
+00:06:38.480 --> 00:06:40.030
+rate for
+
+00:06:40.270 --> 00:06:45.880
+what r
+
+00:06:45.730 --> 00:06:50.320
+is going to be when you have h or what h is
+when you have r, because, again, this
+
+00:06:50.170 --> 00:06:55.320
+cone is straight and it doesn't go out, it's
+not jagged, it's just linear, as we
+
+00:06:55.170 --> 00:07:00.300
+would call it, That means if the
+relationship between r and h is 1 over 3,
+
+00:07:00.430 --> 00:07:05.680
+then the relationship between dr and dh
+is also going to be 1 over 3.
+
+00:07:05.750 --> 00:07:11.320
+So that means dr over dt equals 1
+over 3 dh over dt.
+
+00:07:12.070 --> 00:07:17.680
+Using this, we can plug the same thing into our
+equation down here, and it will become
+
+00:07:17.530 --> 00:07:22.930
+1 over 3 pi, 2 times h
+
+00:07:22.780 --> 00:07:27.140
+over 3 squared times
+
+00:07:27.440 --> 00:07:32.370
+1 over 3, dh over dt,
+
+00:07:34.300 --> 00:07:37.790
+plus h squared over 9,
+
+00:07:38.690 --> 00:07:41.200
+dh over dt,
+
+00:07:42.900 --> 00:07:48.490
+and this all equals dv over dt
+but because we know
+
+00:07:48.340 --> 00:07:53.670
+our dv over dt from the top and we know our
+h we can solve for dh over dt
+
+00:07:53.520 --> 00:07:58.090
+by rearranging and solving because i want to
+leave some space for the second
+
+00:07:57.940 --> 00:08:03.530
+scenario you guys can figure out how to
+move this all on your own and
+
+00:08:03.380 --> 00:08:09.010
+then I'm pretty sure dh over dt will
+equal 1 over pi, and that
+
+00:08:08.860 --> 00:08:12.900
+is our final answer. Now that we've done the first
+approach, the second scenario is
+
+00:08:12.750 --> 00:08:14.920
+actually much easier to see
+what's happening.
+
+00:08:16.430 --> 00:08:19.980
+All that we're going to do in the second scenario
+that's different than the first is
+
+00:08:19.830 --> 00:08:25.440
+instead of taking the v equals 1 over 2
+pi r squared h's derivative,
+
+00:08:26.710 --> 00:08:32.320
+here we're going to first plug in that
+relationship we found between r and h into
+
+00:08:32.170 --> 00:08:36.360
+this equation, and then we're going to take the
+derivative. So the only difference
+
+00:08:36.210 --> 00:08:41.220
+is before we're taking the derivative,
+we're going to plug in 1 over
+
+00:08:41.070 --> 00:08:46.240
+3h squared in place of this r squared. So
+now we're going to have v equals
+
+00:08:46.090 --> 00:08:51.600
+1 over 3 pi r squared h, and
+we're going to remove
+
+00:08:51.450 --> 00:08:56.820
+that r, and we're going to put h over 3 in this
+bracket, and that's going to give
+
+00:08:56.670 --> 00:09:02.240
+us 1 over 27 pi h
+
+00:09:02.090 --> 00:09:05.900
+cubed, right? Because this 3 is going to be
+squared multiplied by another 3. That's
+
+00:09:05.750 --> 00:09:11.280
+3 cubed, which is 27, pi h cubed. And now what
+we're going to do is we're going to
+
+00:09:11.130 --> 00:09:16.180
+derive with respect to t. So we're going
+to take dv over dt equals 1 over
+
+00:09:16.030 --> 00:09:21.260
+27 pi 3h squared times
+
+00:09:21.110 --> 00:09:26.300
+dh over dt. This 3 is going to reduce
+with this 27 to get 9.
+
+00:09:26.190 --> 00:09:31.720
+So we're going to be left with 1
+over 9 pi h squared dh
+
+00:09:31.570 --> 00:09:35.760
+over dt. This is all equal to dv over dt.
+
+00:09:36.950 --> 00:09:41.980
+And now all that's left is we plug in
+that dv over dt with 4
+
+00:09:41.830 --> 00:09:44.320
+meters squared per minute.
+
+00:09:45.540 --> 00:09:50.890
+And we plug in the h with 6. So it's
+going to become 6 squared
+
+00:09:50.740 --> 00:09:56.000
+pi over 9. This is all equal to dh
+
+00:09:55.850 --> 00:10:00.560
+over dt. You will get the same
+answer of dh over dt
+
+00:10:00.410 --> 00:10:05.840
+equals one over pi meters
+
+00:10:05.690 --> 00:10:10.350
+per minute. This is why I like doing both scenarios
+because in the first scenario, you
+
+00:10:10.200 --> 00:10:14.910
+can see just like how we're doing our last
+previous examples, how the systematic
+
+00:10:14.760 --> 00:10:20.170
+process works. And then upon knowing how it
+works, you can figure out the shorter
+
+00:10:20.020 --> 00:10:25.190
+version by switching our variables because we
+have this linear relationship.
+
+00:10:25.300 --> 00:10:29.870
+And what I meant a little early, in case you guys
+didn't understand, with the jagged
+
+00:10:29.720 --> 00:10:34.370
+edges I was talking about for the cone, we know
+that these two relationships hold
+
+00:10:34.220 --> 00:10:39.750
+true because we know that our cone is going to
+be straight if for example instead
+
+00:10:39.600 --> 00:10:44.550
+you had a cone that was like this for the first
+part but then it goes like that for
+
+00:10:44.400 --> 00:10:47.370
+the second part first of all it wouldn't be
+called the cone this is more like a
+
+00:10:47.220 --> 00:10:52.830
+funnel shape but we would not have an accurate
+representation of what our r and h
+
+00:10:52.680 --> 00:10:58.250
+was because here if you let's say we have six
+meters you would assume that your r is
+
+00:10:58.100 --> 00:11:00.190
+two meters using r 1 to 3 relationship.
+
+00:11:01.060 --> 00:11:06.530
+But up here, it would not be the same,
+your r versus your h, because
+
+00:11:06.380 --> 00:11:11.230
+now your r is much further out, so that
+relationship is different. But because we
+
+00:11:11.080 --> 00:11:15.630
+have a cone shape and we know it's linear
+between the two variables, then we know
+
+00:11:15.480 --> 00:11:20.570
+that not only is a relationship for r and h going
+to be 1 over 3, but a relationship
+
+00:11:20.420 --> 00:11:26.070
+for dr over dt is going to equal 1 over 3 dh over
+dt. Thank you, and I'll see you in
+
+00:11:25.920 --> 00:11:26.670
+the next episode.

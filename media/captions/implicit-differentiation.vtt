@@ -1,0 +1,386 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.140
+Bismillah wa alhamdulillah wa sallallahu alaihi
+wa sallam wa ala rasulullah. Hello
+
+00:00:02.990 --> 00:00:06.060
+calculus students, today we're going to be
+taking derivatives using implicit
+
+00:00:05.910 --> 00:00:11.030
+differentiation. Let's get into it. On to our first
+example here, we have x cubed plus y
+
+00:00:10.880 --> 00:00:15.490
+cubed equals 9, and we have to find dy
+over dx. So when we're implicit
+
+00:00:15.340 --> 00:00:20.590
+differentiating, we have to use our
+Leibniz notation. For our
+
+00:00:20.440 --> 00:00:25.750
+equation here, we will have d of x cubed
+
+00:00:25.600 --> 00:00:30.450
+over dx plus d of y cubed over
+
+00:00:30.300 --> 00:00:34.490
+dx equals d of 9 over dx.
+
+00:00:35.900 --> 00:00:39.690
+For our first term, this is just the exact
+same as if we applied the power rule
+
+00:00:39.540 --> 00:00:44.350
+because we're deriving x cubed with respect to
+the same variable with respect to x.
+
+00:00:44.320 --> 00:00:48.930
+So this just becomes 3x squared. And then let's
+leave this guy for one second. Let's
+
+00:00:48.780 --> 00:00:53.310
+go to our third term. We're deriving a constant
+with respect to x. If we derive the
+
+00:00:53.160 --> 00:00:58.460
+constant with respect to any variable, it's
+always going to be 0. And then for our
+
+00:00:58.310 --> 00:01:03.840
+middle term, because we're not deriving y with
+y, we're deriving y with a different
+
+00:01:03.690 --> 00:01:09.140
+variable, we have to first do d of y
+cubed over dy times
+
+00:01:08.990 --> 00:01:14.640
+dy over dx. Using our chain rule,
+this will then become 3x
+
+00:01:14.490 --> 00:01:19.800
+squared [plus] 3y squared dy
+over dx equals 0.
+
+00:01:19.930 --> 00:01:25.260
+We bring this y over the 0 and multiply it by
+negative 1. It becomes 3x squared,
+
+00:01:25.110 --> 00:01:29.920
+minus... equals negative [3]y squared dy over
+
+00:01:29.770 --> 00:01:34.620
+dx. Divide [by] negative
+
+00:01:34.470 --> 00:01:39.780
+3y squared on both sides, we will get
+negative 3x squared over
+
+00:01:40.370 --> 00:01:45.530
+3y squared equals dy
+
+00:01:45.380 --> 00:01:50.790
+over dx. Then we have dy over dx equals
+
+00:01:50.640 --> 00:01:55.880
+negative x squared over y squared.
+
+00:01:56.290 --> 00:02:01.140
+Now on to our next example. We have 3 square
+root of x plus 2 over y equals 4. And
+
+00:02:00.990 --> 00:02:04.960
+we have to find the tangent at 1, 2. To find the
+tangent, we have to first find the
+
+00:02:04.810 --> 00:02:09.120
+slope. And to find the slope, we have to find dy
+over dx. So once again, we're going
+
+00:02:08.970 --> 00:02:13.740
+to solve this using implicit
+differentiation, using our Leibniz notation.
+
+00:02:14.350 --> 00:02:19.950
+We can apply the d over dx to
+
+00:02:19.800 --> 00:02:20.810
+each of these terms.
+
+00:02:21.560 --> 00:02:25.430
+For our first term, we can take the 3 out and
+then change that square root to a
+
+00:02:25.280 --> 00:02:30.390
+power of half. So we're going to have
+d of x to the half over dx,
+
+00:02:30.580 --> 00:02:36.210
+plus take that 2 out as well. And then we're
+going to have d of y to the negative
+
+00:02:36.060 --> 00:02:41.650
+1 over dy multiplied by dy over dx. And
+
+00:02:41.500 --> 00:02:46.270
+then for our last term, we're going
+to have d of 4 over dx.
+
+00:02:47.190 --> 00:02:52.800
+This is just our power rule. We're
+going to get 3 times 1 over 2x
+
+00:02:52.650 --> 00:02:58.180
+to the negative 1 over 2 plus 2. Power,
+again, applying to that y
+
+00:02:58.030 --> 00:03:03.260
+to the negative 1 is going to give us
+negative y to the negative 2 dy
+
+00:03:03.110 --> 00:03:04.340
+over dx.
+
+00:03:05.470 --> 00:03:10.780
+And then applying the derivative to 4, we'll get
+a 0 because 4 is a constant. This
+
+00:03:10.630 --> 00:03:16.280
+will give us 3 over 2x to the
+negative 1 over 2. And then
+
+00:03:16.130 --> 00:03:19.000
+we're going to bring this to the other side.
+So that negative will become a
+
+00:03:18.850 --> 00:03:24.020
+positive. So this will become equals 2y
+to the negative 2 dy over dx.
+
+00:03:25.970 --> 00:03:31.450
+Divide this by 2y [to the negative 2] on both
+sides. We'll get 3
+
+00:03:31.300 --> 00:03:33.650
+over 4x
+
+00:03:35.030 --> 00:03:40.400
+to the negative 1 over 2y to the
+negative 2 equals dy over dx.
+
+00:03:41.050 --> 00:03:44.760
+Because these are both negative, we can just
+switch their spots. So that will be
+
+00:03:44.610 --> 00:03:48.680
+equal to, so dy over dx will equal
+
+00:03:48.530 --> 00:03:54.120
+3y squared over 4 root x because
+this half will turn
+
+00:03:53.970 --> 00:03:54.680
+into a root.
+
+00:03:55.350 --> 00:04:00.440
+Now that we have dy over dx, we can
+plug in our point 1, 2.
+
+00:04:00.290 --> 00:04:05.620
+Plugging in our point 1, 2 will
+give us dy over dx
+
+00:04:05.470 --> 00:04:10.090
+is equal to 3 times
+
+00:04:09.940 --> 00:04:11.330
+2
+
+00:04:11.980 --> 00:04:17.550
+squared over 4 times root of 1, which
+is just 1. That equals
+
+00:04:17.400 --> 00:04:20.440
+12 over 4, which equals 3.
+
+00:04:21.530 --> 00:04:26.900
+Now we have our m and we have two
+points. We can plug them in to
+
+00:04:26.750 --> 00:04:31.940
+our m equals y2 minus y1 over x2 minus
+
+00:04:31.790 --> 00:04:36.160
+x1, which is 3 equals y minus
+
+00:04:38.060 --> 00:04:43.470
+2 over x minus 1. That gives us 3x
+
+00:04:43.320 --> 00:04:48.750
+minus 3 equals y minus 2. So we have 3x
+
+00:04:48.600 --> 00:04:49.630
+minus y
+
+00:04:50.760 --> 00:04:56.290
+minus 1 equals 0 as the equation
+of our tangent at
+
+00:04:56.140 --> 00:05:01.460
+point (1, 2). On to our last example, we
+have x squared times y
+
+00:05:01.310 --> 00:05:06.340
+plus x times y squared equals 5. And once
+again, we have to find dy over dx.
+
+00:05:06.810 --> 00:05:12.460
+Here, we'll just start by applying our
+derivative. So we'll have d of x
+
+00:05:12.540 --> 00:05:18.030
+squared y over dx plus d of xy squared
+
+00:05:17.880 --> 00:05:23.350
+over dx equals d of 5 over
+
+00:05:23.200 --> 00:05:27.670
+dx. Here, though, it's going to be a little
+bit different because since both of
+
+00:05:27.520 --> 00:05:32.250
+these variables are eventually going to be in
+terms of dx, because here we send y to
+
+00:05:32.100 --> 00:05:36.150
+dx when we multiply it by dy over dx, or in this
+example, we have the same thing by
+
+00:05:36.000 --> 00:05:41.630
+sending dy over dx. So y is going
+to be in a product
+
+00:05:41.480 --> 00:05:46.930
+rule with x squared. So this is going to be
+the same as doing d of x squared
+
+00:05:46.780 --> 00:05:52.050
+over dx times y plus x squared times
+
+00:05:51.900 --> 00:05:57.550
+dy over dx. And then that's going to be
+
+00:05:57.400 --> 00:06:01.570
+our first bracket. And we're going to have the
+second bracket is going to be plus
+
+00:06:01.870 --> 00:06:06.670
+dx over dx
+
+00:06:07.380 --> 00:06:12.330
+times y squared plus x
+
+00:06:12.180 --> 00:06:17.750
+times d of y squared over dx. And this is
+all equal to 0 once we
+
+00:06:17.600 --> 00:06:18.830
+apply the derivative to 5.
+
+00:06:19.570 --> 00:06:24.840
+Doing the power rule to our first one, we
+will get 2x times y, so 2xy,
+
+00:06:24.690 --> 00:06:29.840
+and then plus x squared. And then
+because we have here dy over dx,
+
+00:06:29.970 --> 00:06:35.460
+we're going to do dy over dy times dy
+over dx, which is just dy
+
+00:06:35.310 --> 00:06:37.700
+over dx. So we're going to just
+kind of do the same.
+
+00:06:38.580 --> 00:06:44.110
+And then for our next two, we're going to
+have dx over dx, which is 1, times
+
+00:06:43.960 --> 00:06:49.530
+y squared. So it's going to be plus y
+squared, plus x times d of y squared
+
+00:06:49.380 --> 00:06:54.590
+over dx. That's going to be d of y squared over
+dy times dy over dx, which is
+
+00:06:54.570 --> 00:06:58.960
+x times 2y dy over dx.
+
+00:06:59.860 --> 00:07:04.480
+Here we have 2xy plus y squared.
+
+00:07:05.300 --> 00:07:09.470
+We can put it on one side because they have no
+dy's over dx's. Then on the other
+
+00:07:09.320 --> 00:07:10.850
+side, we can have plus
+
+00:07:12.200 --> 00:07:17.850
+2xy plus x squared, and we can
+factor out the dy over
+
+00:07:17.700 --> 00:07:19.610
+dx, and this all equals 0.
+
+00:07:22.180 --> 00:07:27.090
+Lastly, we move that to the other side. We're
+going to get 2xy plus y squared
+
+00:07:27.100 --> 00:07:32.530
+equals negative 2xy plus
+
+00:07:32.580 --> 00:07:37.670
+x or minus x squared all dy over dx.
+
+00:07:37.780 --> 00:07:42.350
+Bring that under, we get 2xy
+plus y squared
+
+00:07:42.770 --> 00:07:47.940
+over negative 2xy minus x
+
+00:07:47.790 --> 00:07:52.260
+squared equals dy over dx.
+
+00:07:53.710 --> 00:07:57.000
+So as you can see, it's pretty easy. It's just
+like a very small pattern that we
+
+00:07:56.850 --> 00:08:01.400
+have to do whenever we interact with a y term
+because we're not deriving with
+
+00:08:01.250 --> 00:08:06.500
+respect to y. We're deriving with respect to x.
+If instead we were deriving with
+
+00:08:06.350 --> 00:08:10.320
+respect to y, the process that we're taking
+would be the same. We're just doing it
+
+00:08:10.170 --> 00:08:15.260
+to x instead. It's pretty easy, but we just have
+to understand this quickly before
+
+00:08:15.110 --> 00:08:20.660
+we go to our next topic in the unit, which
+is related rates. I will see you
+
+00:08:20.510 --> 00:08:21.480
+guys in the next one.
