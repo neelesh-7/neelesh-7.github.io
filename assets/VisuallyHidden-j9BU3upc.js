@@ -1,0 +1,1 @@
+import{n as e}from"./useDocumentTitle-DnlIqssV.js";var t=e();function n({as:e=`span`,children:n,...r}){return(0,t.jsx)(e,{className:`sr-only`,...r,children:n})}export{n as t};
