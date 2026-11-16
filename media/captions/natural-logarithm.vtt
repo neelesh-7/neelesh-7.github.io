@@ -1,0 +1,277 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.630
+Bismillah, alhamdulillah, wa salatu wa salamu
+ala rasulullah. Hello, calculus
+
+00:00:03.480 --> 00:00:07.670
+students. Today we're going to be doing
+derivatives using the [ln] function. Let's
+
+00:00:07.520 --> 00:00:12.190
+get into it. Let's get into our examples.
+But first, I want to make sure that we all know
+
+00:00:12.040 --> 00:00:17.550
+before we start that the derivative
+when y equals ln of x is 1
+
+00:00:17.400 --> 00:00:22.950
+over x. But just like our e to the x
+case, almost always when
+
+00:00:22.800 --> 00:00:28.110
+we're using ln, it's going to be in a chain
+rule format because the ln itself is
+
+00:00:27.960 --> 00:00:31.210
+already a function. So we're going to put
+anything in this function. We're going to
+
+00:00:31.060 --> 00:00:34.970
+be using the chain rule. Here, let's use Leibniz
+notation to show you what I mean.
+
+00:00:34.980 --> 00:00:40.290
+If we have y equals d of ln of
+
+00:00:40.140 --> 00:00:45.530
+8x, we're going to have to first take it
+over d of 8x and then multiply
+
+00:00:45.380 --> 00:00:48.170
+it by d of 8x over d of x.
+
+00:00:49.680 --> 00:00:53.250
+Taking [the derivative of] the ln of 8x
+will give us 1 over 8x,
+
+00:00:54.230 --> 00:00:56.880
+just like how taking [the derivative of]
+the ln of x will give us 1 over x.
+
+00:00:56.730 --> 00:01:03.840
+And then the derivative of 8x equals,
+times the derivative of 8x, which is just 8.
+
+00:01:03.950 --> 00:01:08.240
+This will give us, when these 8s
+cancel out, still 1 over x.
+
+00:01:11.810 --> 00:01:16.760
+In our next example here, we have f of x
+equals ln of 5x cubed plus
+
+00:01:16.610 --> 00:01:22.000
+3x plus 1. If we take the
+derivative of this, we will
+
+00:01:21.850 --> 00:01:25.860
+again have to take the chain rule. So do the
+derivative of the outside multiplied by
+
+00:01:25.710 --> 00:01:29.420
+the derivative of what's on the inside. The
+derivative of the outside with respect
+
+00:01:29.270 --> 00:01:34.740
+to the g of x function, we get 1
+over 5x cubed plus 3x
+
+00:01:34.590 --> 00:01:38.900
+plus 1. And then we're going to multiply it by
+the derivative of the inside. The
+
+00:01:38.750 --> 00:01:44.240
+derivative of 5x cubed plus 3x plus
+1 is 15x squared plus
+
+00:01:44.090 --> 00:01:48.820
+3 because that 1 goes to 0. We then get
+
+00:01:48.670 --> 00:01:54.120
+15x squared plus 3 over 5x cubed
+
+00:01:53.970 --> 00:01:59.350
+plus 3x plus 1 as our final answer.
+On to our third example here, we
+
+00:01:59.200 --> 00:02:04.850
+have h of x equals ln 2x cubed over x
+squared. Here we have a
+
+00:02:04.700 --> 00:02:10.010
+fraction that follows our quotient rule, so we
+can have this as f and this represent
+
+00:02:09.860 --> 00:02:15.450
+g, and we know that f over g prime
+equals f prime of g minus f
+
+00:02:15.300 --> 00:02:20.950
+g prime all over g squared. So we can
+get our f prime, our g
+
+00:02:20.800 --> 00:02:26.210
+prime, and then plug them in. Our f prime
+of x will be the prime of ln 2x
+
+00:02:26.060 --> 00:02:30.720
+cubed. We know we're going to have to use the
+chain rule, and that will be
+
+00:02:30.770 --> 00:02:32.520
+1 over 2x cubed
+
+00:02:33.490 --> 00:02:38.140
+times the inside derivative, which
+will be 6x squared.
+
+00:02:38.650 --> 00:02:43.280
+Here we can simplify. There are [x] cubed here
+and x squared here. We can scratch
+
+00:02:43.130 --> 00:02:48.320
+this out and bring that to a 1, and then this 2
+and 6 can become a 3. So we'll get 3
+
+00:02:48.170 --> 00:02:53.820
+over x. For our g prime of x, that's just going
+to be x squared, and [the derivative of] x squared
+
+00:02:53.670 --> 00:02:58.980
+is 2x. The derivative is 2x. Now we have f prime
+and g prime. We can plug them into
+
+00:02:58.830 --> 00:03:04.140
+our f over g prime. So here we
+would get 3 over x
+
+00:03:03.990 --> 00:03:08.420
+times x squared minus ln of 2x cubed
+
+00:03:09.550 --> 00:03:14.760
+times 2x all over g squared. g is x squared,
+so it's going to be x to the 4.
+
+00:03:15.350 --> 00:03:19.200
+We're running out of space here, so I'm going to
+move [it] down here. We're going to
+
+00:03:19.050 --> 00:03:23.840
+multiply 3 over x times x squared. That gives
+us 3x. And then we're going to
+
+00:03:23.690 --> 00:03:29.040
+subtract that 2x ln of 2x cubed
+
+00:03:28.890 --> 00:03:34.320
+all over x to the power of 4. Here we have
+an x and an x and an x that
+
+00:03:34.170 --> 00:03:38.700
+can factor out. So that will
+give us 3 minus 2 ln
+
+00:03:38.550 --> 00:03:42.850
+of 2x cubed all
+
+00:03:43.820 --> 00:03:46.870
+over x to the power of 3 as our answer.
+
+00:03:48.160 --> 00:03:51.610
+Again, it's pretty easy. We're just combining
+some rules now. But because we know
+
+00:03:51.460 --> 00:03:55.690
+how to [use] all these tools, it's pretty easy to
+get our answers for the derivative.
+
+00:03:55.820 --> 00:04:00.990
+The last one here, we have a ln on the outside.
+And then, so that's going to be a
+
+00:04:00.840 --> 00:04:05.350
+chain rule. And then inside, we have a product
+rule. So to begin, we're going to use
+
+00:04:05.200 --> 00:04:10.470
+that, we're going to take the derivative of just
+the ln with respect to x times e to
+
+00:04:10.320 --> 00:04:14.370
+the 2x. So that's going to give us 1 over x e
+to the 2x. Then we're going to
+
+00:04:14.220 --> 00:04:18.730
+multiply the inside with a product rule.
+Product rule tells us that we have to do
+
+00:04:18.580 --> 00:04:23.050
+the first prime multiplied by the second function
+times the first function multiplied by
+
+00:04:22.900 --> 00:04:28.470
+the second prime. When we're
+taking x to x prime, or x's
+
+00:04:28.320 --> 00:04:32.650
+derivative is 1, so that's 1 times e to
+the 2x. And then we're adding
+
+00:04:32.720 --> 00:04:38.310
+x times the derivative of e to the
+2x, which is e to the
+
+00:04:38.160 --> 00:04:39.590
+2x times 2.
+
+00:04:41.250 --> 00:04:46.190
+Simplifying this a little further, we're going
+to get e to the 2x plus 2x e to the
+
+00:04:46.040 --> 00:04:51.150
+2x all over x e to the 2x. We can
+
+00:04:51.000 --> 00:04:56.630
+divide [out] e to the 2x in each of these
+terms. We will get 1 plus 2x
+
+00:04:56.480 --> 00:05:02.090
+over x as our final answer. So
+as you can see, this
+
+00:05:01.940 --> 00:05:07.550
+is not that difficult. We just added one
+more step to our process
+
+00:05:07.400 --> 00:05:11.790
+of solving, and once we have all these tools, these
+derivatives become a piece of cake
+
+00:05:11.640 --> 00:05:17.290
+to be honest. So yeah, the only thing really new
+here is just the fact that we know
+
+00:05:17.140 --> 00:05:22.770
+this identity now, the [derivative of] ln x
+equals 1 over x. So if it's involved in a
+
+00:05:22.620 --> 00:05:26.730
+question, we're just going to have that as a part
+of our chain rule, like we see here,
+
+00:05:26.580 --> 00:05:31.130
+like we see here, like we see here. And then
+this one was a little bit different
+
+00:05:30.980 --> 00:05:35.570
+because, again, we still did have that chain rule,
+but it was an intermediate step. So
+
+00:05:35.420 --> 00:05:39.230
+you always have to assess what's on the outside,
+what's on the inside, and go from
+
+00:05:39.080 --> 00:05:41.050
+there. I will see you in the next one.
