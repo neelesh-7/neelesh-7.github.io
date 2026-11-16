@@ -1,1 +1,0 @@
-import{t as e}from"./UnitsOverview-B5BTHQy9.js";import{_ as t,t as n}from"./useDocumentTitle-CnRVxvdh.js";import{fn as r,un as i}from"./index-CnYXTI0B.js";var a=t();function o(){n(`Units`);let t=r(`calculus-and-vectors`)??i[0];return t?(0,a.jsx)(e,{course:t,headingLevel:1}):null}export{o as default};

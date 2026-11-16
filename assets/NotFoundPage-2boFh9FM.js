@@ -1,0 +1,1 @@
+import{t as e}from"./NotFoundView-INIQ02On.js";import{_ as t}from"./useDocumentTitle-3O1hZvj4.js";var n=t();function r(){return(0,n.jsx)(e,{})}export{r as default};

@@ -1,1 +1,0 @@
-import{t as e}from"./NotFoundView-Cjxg-02H.js";import{_ as t}from"./useDocumentTitle-CnRVxvdh.js";var n=t();function r(){return(0,n.jsx)(e,{})}export{r as default};
