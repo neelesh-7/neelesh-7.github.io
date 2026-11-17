@@ -1,0 +1,1 @@
+import{n as e}from"./useDocumentTitle-MyKB4p42.js";var t=e();function n({as:e=`span`,children:n,...r}){return(0,t.jsx)(e,{className:`sr-only`,...r,children:n})}export{n as t};
