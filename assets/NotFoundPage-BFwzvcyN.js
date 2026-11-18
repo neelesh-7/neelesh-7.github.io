@@ -1,0 +1,1 @@
+import{t as e}from"./NotFoundView-DDs8Pfjc.js";import{n as t}from"./useDocumentTitle-MyKB4p42.js";var n=t();function r(){return(0,n.jsx)(e,{})}export{r as default};
