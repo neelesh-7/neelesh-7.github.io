@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-C4hHkb_k.js";var t=e();function n({as:e=`span`,children:n,...r}){return(0,t.jsx)(e,{className:`sr-only`,...r,children:n})}export{n as t};
