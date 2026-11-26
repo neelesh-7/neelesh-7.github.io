@@ -1,1 +1,0 @@
-import{t as e}from"./NotFoundView-CVt8IhOG.js";import{t}from"./jsx-runtime-C4hHkb_k.js";var n=t();function r(){return(0,n.jsx)(e,{})}export{r as default};
